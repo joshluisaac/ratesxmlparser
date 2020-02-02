@@ -1,21 +1,35 @@
-
-
-import {Constants} from "./rate/constants";
+import fs = require('fs');
 import {RateService} from "./rate/rateService";
 
 
-export function run() {
-
+async function readFile(file: string): Promise<string> {
+    return new Promise<string>(((resolve, reject) => {
+        fs.readFile(file, "UTF-8", (error: any, data: string) => {
+            if (error) reject(error);
+            resolve(data);
+        });
+    }));
 }
 
-let rateService = new RateService(Constants.rawRatesXml);
-let value = rateService.getProductRate("L1-fix-1-INV");
-let value2 = rateService.getProductRate("L1-ULT-fix-5-INV");
-let value3 = rateService.getProductRate("CALC-FHMP-ARREAR-fix-2-INV-morethan90LVR");
-let value4 = rateService.getProductRate("CALC-FHMP-ADVANCE-fix-1-INV-morethan90LVR-IO");
-console.log(value);
-console.log(value2);
-console.log(value3);
-console.log(value4);
+async function run(file: string): Promise<any> {
+    const fileContent = await readFile(file);
+    const rateService = new RateService(fileContent);
+    const value = rateService.getProductRate("L1-fix-1-INV");
+    const value2 = rateService.getProductRate("L1-ULT-fix-5-INV");
+    const value3 = rateService.getProductRate("CALC-FHMP-ARREAR-fix-2-INV-morethan90LVR");
+    const value4 = rateService.getProductRate("CALC-FHMP-ADVANCE-fix-1-INV-morethan90LVR-IO");
+    console.log(value);
+    console.log(value2);
+    console.log(value3);
+    console.log(value4);
+    console.log(rateService.getProductRates().size);
+}
 
-//console.log(rateService.getProductRates());
+(async () => {
+    await run("/media/joshua/martian/jobs/webstormbase/playground/infrastructure/fininfo1309.xml");
+})().catch(async (e) => {
+    console.log("Some error occurred..");
+});
+
+
+

@@ -1,4 +1,4 @@
-import {Xml2jsMapper} from "../common/xml2jsMapper";
+import {Xml2JsonMapper} from "../common/xml2JsonMapper";
 
 export class RateService {
 
@@ -9,15 +9,7 @@ export class RateService {
     }
 
     private static parseRate(xml: string): string {
-        return Xml2jsMapper.parseXml(xml).rates.rate;
-    }
-
-    public getProductRate(productType: string): String {
-        return this.rates.get(productType);
-    }
-
-    public getProductRates(): Map<string, string> {
-        return this.rates;
+        return Xml2JsonMapper.parseXml(xml).rates.rate;
     }
 
     private toMap(rate: any): Map<string, string> {
@@ -31,6 +23,14 @@ export class RateService {
     private setRates(xml: string): void {
         let parsedRate = RateService.parseRate(xml);
         this.rates = this.toMap(parsedRate);
+    }
+
+    public getProductRate(productType: string): String {
+        return this.rates.get(productType);
+    }
+
+    public getProductRates(): Map<string, string> {
+        return this.rates;
     }
 
 }
