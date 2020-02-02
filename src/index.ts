@@ -14,15 +14,15 @@ async function readFile(file: string): Promise<string> {
 async function run(file: string): Promise<any> {
     const fileContent = await readFile(file);
     const rateService = new RateService(fileContent);
-    const value = rateService.getProductRate("L1-fix-1-INV");
-    const value2 = rateService.getProductRate("L1-ULT-fix-5-INV");
-    const value3 = rateService.getProductRate("CALC-FHMP-ARREAR-fix-2-INV-morethan90LVR");
-    const value4 = rateService.getProductRate("CALC-FHMP-ADVANCE-fix-1-INV-morethan90LVR-IO");
+    const value = rateService.getRateById("L1-fix-1-INV");
+    const value2 = rateService.getRateById("L1-ULT-fix-5-INV");
+    const value3 = rateService.getRateById("CALC-FHMP-ARREAR-fix-2-INV-morethan90LVR");
+    const value4 = rateService.getRateById("CALC-FHMP-ADVANCE-fix-1-INV-morethan90LVR-IO");
     console.log(value);
     console.log(value2);
     console.log(value3);
     console.log(value4);
-    console.log(rateService.getProductRates().size);
+    console.log(rateService.getRates().size);
 }
 
 (async () => {

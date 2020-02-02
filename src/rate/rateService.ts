@@ -25,11 +25,18 @@ export class RateService {
         this.rates = this.toMap(parsedRate);
     }
 
-    public getProductRate(productType: string): String {
-        return this.rates.get(productType);
+    /**
+     * Returns the rate for the given id.
+     * @param rateId
+     */
+    public getRateById(rateId: string): String {
+        return this.rates.get(rateId);
     }
 
-    public getProductRates(): Map<string, string> {
+    /**
+     * Returns the map of all rates.
+     */
+    public getRates(): Map<string, string> {
         return this.rates;
     }
 
