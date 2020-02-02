@@ -1,0 +1,1526 @@
+<?xml version="1.0"?>
+<rates>
+
+    <!-- This file relates to changes taking place on 13-9-2019 -->
+    <!-- =========================================================== -->
+    <!-- Members Standard Home Loan -->
+    <!-- Owner Occupied -->
+    <rate key="L1-var" value="4.87"/>
+    <rate key="L1-fix-1" value="3.78"/>
+    <rate key="L1-fix-3" value="3.33"/>
+    <rate key="L1-fix-5" value="3.73"/>
+    <!-- Investment -->
+    <rate key="L1-var-INV" value="5.58"/>
+    <rate key="L1-fix-1-INV" value="3.83"/>
+    <rate key="L1-fix-3-INV" value="3.63"/>
+    <rate key="L1-fix-5-INV" value="4.03"/>
+    <!-- Members Ultimate Offset   -->
+    <!-- Owner Occupied -->
+    <rate key="L1-ULT-var" value="5.17"/>
+    <rate key="L1-ULT-fix-1" value="3.78"/>
+    <rate key="L1-ULT-fix-3" value="3.33"/>
+    <rate key="L1-ULT-fix-5" value="3.73"/>
+    <!-- Investment -->
+    <rate key="L1-ULT-var-INV" value="5.88"/>
+    <rate key="L1-ULT-fix-1-INV" value="3.83"/>
+    <rate key="L1-ULT-fix-3-INV" value="3.63"/>
+    <rate key="L1-ULT-fix-5-INV" value="4.03"/>
+    <!-- Members Interest Only -->
+    <!-- Owner Occupied -->
+    <rate key="L1-IO-var" value="4.87"/>
+    <rate key="L1-IO-fix-1" value="3.78"/>
+    <rate key="L1-IO-fix-3" value="3.33"/>
+    <rate key="L1-IO-fix-5" value="3.73"/>
+    <!-- Investment -->
+    <rate key="L1-IO-var-INV" value="5.58"/>
+    <rate key="L1-IO-fix-1-INV" value="3.83"/>
+    <rate key="L1-IO-fix-3-INV" value="3.63"/>
+    <rate key="L1-IO-fix-5-INV" value="4.03"/>
+    <!-- ======================================== -->
+    <!-- Member Package Standard Home Loan -->
+    <!-- Owner Occupied -->
+    <rate key="L30-MP-STD-var" value="4.67"/>
+    <rate key="L30-MP-STD-fix-1" value="3.63"/>
+    <rate key="L30-MP-STD-fix-3" value="3.18"/>
+    <rate key="L30-MP-STD-fix-5" value="3.58"/>
+    <!-- Investment -->
+    <rate key="L30-MP-STD-var-INV" value="5.38"/>
+    <rate key="L30-MP-STD-fix-1-INV" value="3.68"/>
+    <rate key="L30-MP-STD-fix-3-INV" value="3.48"/>
+    <rate key="L30-MP-STD-fix-5-INV" value="3.88"/>
+    <!-- Member Package Ultimate Offset -->
+    <!-- Owner Occupied -->
+    <rate key="L30-MP-ULT-var" value="4.67"/>
+    <rate key="L30-MP-ULT-fix-1" value="3.63"/>
+    <rate key="L30-MP-ULT-fix-3" value="3.18"/>
+    <rate key="L30-MP-ULT-fix-5" value="3.58"/>
+    <!-- Investment -->
+    <rate key="L30-MP-ULT-var-INV" value="5.38"/>
+    <rate key="L30-MP-ULT-fix-1-INV" value="3.68"/>
+    <rate key="L30-MP-ULT-fix-3-INV" value="3.48"/>
+    <rate key="L30-MP-ULT-fix-5-INV" value="3.88"/>
+    <!-- Member Package Interest Only -->
+    <!-- Owner Occupied -->
+    <rate key="L30-MP-IO-var" value="4.67"/>
+    <rate key="L30-MP-IO-fix-1" value="3.63"/>
+    <rate key="L30-MP-IO-fix-3" value="3.18"/>
+    <rate key="L30-MP-IO-fix-5" value="3.58"/>
+    <!-- Investment -->
+    <rate key="L30-MP-IO-var-INV" value="5.38"/>
+    <rate key="L30-MP-IO-fix-1-INV" value="3.68"/>
+    <rate key="L30-MP-IO-fix-3-INV" value="3.48"/>
+    <rate key="L30-MP-IO-fix-5-INV" value="3.88"/>
+    <!-- ======================================== -->
+    <!-- Non-Member Standard Home Loan -->
+    <!-- Owner Occupied -->
+    <rate key="L25-var" value="4.87"/>
+    <rate key="L25-fix-1" value="3.78"/>
+    <rate key="L25-fix-3" value="3.33"/>
+    <rate key="L25-fix-5" value="3.73"/>
+    <!-- Investment -->
+    <rate key="L25-var-INV" value="5.58"/>
+    <rate key="L25-fix-1-INV" value="3.83"/>
+    <rate key="L25-fix-3-INV" value="3.63"/>
+    <rate key="L25-fix-5-INV" value="4.03"/>
+    <!-- Non-Member Ultimate Offset -->
+    <!-- Owner Occupied -->
+    <rate key="L25-ULT-var" value="5.17"/>
+    <rate key="L25-ULT-fix-1" value="3.78"/>
+    <rate key="L25-ULT-fix-3" value="3.33"/>
+    <rate key="L25-ULT-fix-5" value="3.73"/>
+    <!-- Investment -->
+    <rate key="L25-ULT-var-INV" value="5.88"/>
+    <rate key="L25-ULT-fix-1-INV" value="3.83"/>
+    <rate key="L25-ULT-fix-3-INV" value="3.63"/>
+    <rate key="L25-ULT-fix-5-INV" value="4.03"/>
+    <!-- Non-Member Interest Only -->
+    <!-- Owner Occupied -->
+    <rate key="L25-IO-var" value="4.87"/>
+    <rate key="L25-IO-fix-1" value="3.78"/>
+    <rate key="L25-IO-fix-3" value="3.33"/>
+    <rate key="L25-IO-fix-5" value="3.73"/>
+    <!-- Investment -->
+    <rate key="L25-IO-var-INV" value="5.58"/>
+    <rate key="L25-IO-fix-1-INV" value="3.83"/>
+    <rate key="L25-IO-fix-3-INV" value="3.63"/>
+    <rate key="L25-IO-fix-5-INV" value="4.03"/>
+    <!-- ======================================== -->
+    <!-- Members Standard Home Loan Comparison -->
+    <!-- Owner Occupied -->
+    <rate key="L1-var-comp" value="4.89"/>
+    <rate key="L1-fix-1-comp" value="4.79"/>
+    <rate key="L1-fix-3-comp" value="4.48"/>
+    <rate key="L1-fix-5-comp" value="4.42"/>
+    <!-- Investment -->
+    <rate key="L1-var-comp-INV" value="5.60"/>
+    <rate key="L1-fix-1-comp-INV" value="5.43"/>
+    <rate key="L1-fix-3-comp-INV" value="5.07"/>
+    <rate key="L1-fix-5-comp-INV" value="4.95"/>
+    <!-- Members Ultimate Offset Comparison -->
+    <!-- Owner Occupied -->
+    <rate key="L1-ULT-var-comp" value="5.20"/>
+    <rate key="L1-ULT-fix-1-comp" value="5.13"/>
+    <rate key="L1-ULT-fix-3-comp" value="4.95"/>
+    <rate key="L1-ULT-fix-5-comp" value="4.90"/>
+    <!-- Investment -->
+    <rate key="L1-ULT-var-comp-INV" value="5.91"/>
+    <rate key="L1-ULT-fix-1-comp-INV" value="5.80"/>
+    <rate key="L1-ULT-fix-3-comp-INV" value="5.60"/>
+    <rate key="L1-ULT-fix-5-comp-INV" value="5.52"/>
+    <!-- Members Interest Only Comparison -->
+    <!-- Owner Occupied -->
+    <rate key="L1-IO-var-comp" value="4.89"/>
+    <rate key="L1-IO-fix-1-comp" value="4.79"/>
+    <rate key="L1-IO-fix-3-comp" value="4.48"/>
+    <rate key="L1-IO-fix-5-comp" value="4.42"/>
+    <!-- Investment -->
+    <rate key="L1-IO-var-comp-INV" value="5.60"/>
+    <rate key="L1-IO-fix-1-comp-INV" value="5.43"/>
+    <rate key="L1-IO-fix-3-comp-INV" value="5.07"/>
+    <rate key="L1-IO-fix-5-comp-INV" value="4.95"/>
+    <!-- ======================================== -->
+    <!-- Member Package Standard Home Loan Comparison -->
+    <!-- Owner Occupied -->
+    <rate key="L30-MP-STD-var-comp" value="5.07"/>
+    <rate key="L30-MP-STD-fix-1-comp" value="4.97"/>
+    <rate key="L30-MP-STD-fix-3-comp" value="4.67"/>
+    <rate key="L30-MP-STD-fix-5-comp" value="4.62"/>
+    <!-- Investment -->
+    <rate key="L30-MP-STD-var-comp-INV" value="5.76"/>
+    <rate key="L30-MP-STD-fix-1-comp-INV" value="5.60"/>
+    <rate key="L30-MP-STD-fix-3-comp-INV" value="5.25"/>
+    <rate key="L30-MP-STD-fix-5-comp-INV" value="5.14"/>
+    <!-- Member Package Ultimate Offset Comparison -->
+    <!-- Owner Occupied -->
+    <rate key="L30-MP-ULT-var-comp" value="5.07"/>
+    <rate key="L30-MP-ULT-fix-1-comp" value="5.02"/>
+    <rate key="L30-MP-ULT-fix-3-comp" value="4.88"/>
+    <rate key="L30-MP-ULT-fix-5-comp" value="4.85"/>
+    <!-- Investment -->
+    <rate key="L30-MP-ULT-var-comp-INV" value="5.77"/>
+    <rate key="L30-MP-ULT-fix-1-comp-INV" value="5.69"/>
+    <rate key="L30-MP-ULT-fix-3-comp-INV" value="5.51"/>
+    <rate key="L30-MP-ULT-fix-5-comp-INV" value="5.46"/>
+    <!-- Member Package Interest Only Comparison -->
+    <!-- Owner Occupied -->
+    <rate key="L30-MP-IO-var-comp" value="5.07"/>
+    <rate key="L30-MP-IO-fix-1-comp" value="4.97"/>
+    <rate key="L30-MP-IO-fix-3-comp" value="4.67"/>
+    <rate key="L30-MP-IO-fix-5-comp" value="4.62"/>
+    <!-- Investment -->
+    <rate key="L30-MP-IO-var-comp-INV" value="5.76"/>
+    <rate key="L30-MP-IO-fix-1-comp-INV" value="5.60"/>
+    <rate key="L30-MP-IO-fix-3-comp-INV" value="5.25"/>
+    <rate key="L30-MP-IO-fix-5-comp-INV" value="5.14"/>
+    <!-- ======================================== -->
+    <!-- Non-Member Standard Home Loan Comparison -->
+    <!-- Owner Occupied -->
+    <rate key="L25-var-comp" value="4.89"/>
+    <rate key="L25-fix-1-comp" value="4.79"/>
+    <rate key="L25-fix-3-comp" value="4.48"/>
+    <rate key="L25-fix-5-comp" value="4.42"/>
+    <!-- Investment -->
+    <rate key="L25-var-comp-INV" value="5.60"/>
+    <rate key="L25-fix-1-comp-INV" value="5.43"/>
+    <rate key="L25-fix-3-comp-INV" value="5.07"/>
+    <rate key="L25-fix-5-comp-INV" value="4.95"/>
+    <!-- Non-Member Ultimate Offset Comparison -->
+    <!-- Owner Occupied -->
+    <rate key="L25-ULT-var-comp" value="5.20"/>
+    <rate key="L25-ULT-fix-1-comp" value="5.13"/>
+    <rate key="L25-ULT-fix-3-comp" value="4.95"/>
+    <rate key="L25-ULT-fix-5-comp" value="4.90"/>
+    <!-- Investment -->
+    <rate key="L25-ULT-var-comp-INV" value="5.91"/>
+    <rate key="L25-ULT-fix-1-comp-INV" value="5.80"/>
+    <rate key="L25-ULT-fix-3-comp-INV" value="5.60"/>
+    <rate key="L25-ULT-fix-5-comp-INV" value="5.52"/>
+    <!-- Non-Member Interest Only Comparison -->
+    <!-- Owner Occupied -->
+    <rate key="L25-IO-var-comp" value="4.89"/>
+    <rate key="L25-IO-fix-1-comp" value="4.79"/>
+    <rate key="L25-IO-fix-3-comp" value="4.48"/>
+    <rate key="L25-IO-fix-5-comp" value="4.42"/>
+    <!-- Investment -->
+    <rate key="L25-IO-var-comp-INV" value="5.60"/>
+    <rate key="L25-IO-fix-1-comp-INV" value="5.43"/>
+    <rate key="L25-IO-fix-3-comp-INV" value="5.07"/>
+    <rate key="L25-IO-fix-5-comp-INV" value="4.95"/>
+    <!-- ======================================== -->
+    <!-- Online Savings Account -->
+    <!-- Variable Base Rate -->
+    <rate key="OS-ABR" value="0.80"/>
+    <!-- Super Savings Bonus Rate -->
+    <rate key="OS-BONUS#2" value="+1.70"/>
+    <rate key="OS-TOTAL#2" value="2.50"/>
+    <!-- Bonus rate of eligible accounts -->
+    <rate key="OS-BONUS" value="1.55"/>
+    <rate key="OS-TOTAL" value="2.35"/>
+    <!-- ======================================== -->
+    <!-- InterestME Savings Account -->
+    <!-- $0 - $3000 (Tier 1) -->
+    <rate key="S5-3000-" value="0.05"/>
+    <!-- Over $3000 (Tier 2) -->
+    <rate key="S5-3000+" value="0.25"/>
+    <!-- ======================================== -->
+    <!-- Personal Loan -->
+    <!-- Interest Rate -->
+    <rate key="L24" value="10.98"/>
+    <!-- Comparison Rate -->
+    <rate key="L24-comp" value="11.35"/>
+    <!-- ======================================== -->
+    <!-- Frank Credit Card -->
+    <!-- Frank Credit Card Promo -->
+    <rate key="CC-frank-promo" value="9.99"/>
+    <!-- Frank Credit Card -->
+    <rate key="CC-frank" value="11.99"/>
+    <!-- ======================================== -->
+    <!-- Personal Term Deposit -->
+    <!-- Interest Paid At Maturity -->
+    <rate key="TD-AM-1-2" value="1.75"/>
+    <rate key="TD-AM-2-3" value="2.10"/>
+    <rate key="TD-AM-3-4" value="2.00"/>
+    <rate key="TD-AM-4-5" value="2.00"/>
+    <rate key="TD-AM-5-6" value="2.00"/>
+    <rate key="TD-AM-6-7" value="2.05"/>
+    <rate key="TD-AM-7-8" value="2.00"/>
+    <rate key="TD-AM-8-9" value="2.00"/>
+    <rate key="TD-AM-9-10" value="1.95"/>
+    <rate key="TD-AM-10-11" value="1.95"/>
+    <rate key="TD-AM-11-12" value="1.95"/>
+    <!-- Interest Paid Monthly -->
+    <rate key="TD-MI-1-2" value="1.75"/>
+    <rate key="TD-MI-2-3" value="2.05"/>
+    <rate key="TD-MI-3-4" value="1.95"/>
+    <rate key="TD-MI-4-5" value="1.95"/>
+    <rate key="TD-MI-5-6" value="1.95"/>
+    <rate key="TD-MI-6-7" value="2.00"/>
+    <rate key="TD-MI-7-8" value="1.95"/>
+    <rate key="TD-MI-8-9" value="1.95"/>
+    <rate key="TD-MI-9-10" value="1.90"/>
+    <rate key="TD-MI-10-11" value="1.90"/>
+    <rate key="TD-MI-11-12" value="1.90"/>
+    <rate key="TD-MI-12-18" value="1.85"/>
+    <rate key="TD-MI-18-24" value="1.85"/>
+    <rate key="TD-MI-24-36" value="1.85"/>
+    <rate key="TD-MI-36-48" value="1.85"/>
+    <rate key="TD-MI-48-60" value="1.85"/>
+    <rate key="TD-MI-60" value="1.85"/>
+    <!-- Interest Paid Quarterly -->
+    <rate key="TD-QI-3-4" value="2.00"/>
+    <rate key="TD-QI-4-5" value="1.95"/>
+    <rate key="TD-QI-5-6" value="1.95"/>
+    <rate key="TD-QI-6-7" value="2.00"/>
+    <rate key="TD-QI-7-8" value="1.95"/>
+    <rate key="TD-QI-8-9" value="1.95"/>
+    <rate key="TD-QI-9-10" value="1.90"/>
+    <rate key="TD-QI-10-11" value="1.90"/>
+    <rate key="TD-QI-11-12" value="1.90"/>
+    <rate key="TD-QI-12-18" value="1.85"/>
+    <rate key="TD-QI-18-24" value="1.85"/>
+    <rate key="TD-QI-24-36" value="1.85"/>
+    <rate key="TD-QI-36-48" value="1.85"/>
+    <rate key="TD-QI-48-60" value="1.85"/>
+    <rate key="TD-QI-60" value="1.85"/>
+    <!-- Interest Paid Half Yearly -->
+    <rate key="TD-HY-6-7" value="2.05"/>
+    <rate key="TD-HY-7-8" value="1.95"/>
+    <rate key="TD-HY-8-9" value="1.95"/>
+    <rate key="TD-HY-9-10" value="1.90"/>
+    <rate key="TD-HY-10-11" value="1.90"/>
+    <rate key="TD-HY-11-12" value="1.90"/>
+    <rate key="TD-HY-12-18" value="1.85"/>
+    <rate key="TD-HY-18-24" value="1.85"/>
+    <rate key="TD-HY-24-36" value="1.85"/>
+    <rate key="TD-HY-36-48" value="1.85"/>
+    <rate key="TD-HY-48-60" value="1.85"/>
+    <rate key="TD-HY-60" value="1.85"/>
+    <!-- Interest Paid Annually -->
+    <rate key="TD-AI-12-18" value="1.90"/>
+    <rate key="TD-AI-18-24" value="1.90"/>
+    <rate key="TD-AI-24-36" value="1.90"/>
+    <rate key="TD-AI-36-48" value="1.90"/>
+    <rate key="TD-AI-48-60" value="1.90"/>
+    <rate key="TD-AI-60" value="1.90"/>
+    <!-- ======================================== -->
+    <!-- Business Rates -->
+    <!-- Small Business Loans -->
+    <rate key="L9-SBL-var" value="6.43"/>
+    <rate key="L9-SBL-fix-1" value="6.34"/>
+    <rate key="L9-SBL-fix-3" value="5.78"/>
+    <rate key="L9-SBL-fix-5" value="6.09"/>
+    <!-- Residentially Secured Business Loans -->
+    <rate key="L9-RSBL-var" value="5.93"/>
+    <rate key="L9-RSBL-fix-1" value="5.44"/>
+    <rate key="L9-RSBL-fix-3" value="5.28"/>
+    <rate key="L9-RSBL-fix-5" value="5.79"/>
+    <!-- Commercial Loans -->
+    <rate key="L9-CL-fix-1" value="6.34"/>
+    <rate key="L9-CL-fix-3" value="5.78"/>
+    <rate key="L9-CL-fix-5" value="6.09"/>
+    <!-- ======================================== -->
+    <!-- Business Investment Account -->
+    <!-- Interest earned for every dollar in your account -->
+    <rate key="BIA-ABR" value="1.25"/>
+    <!-- ======================================== -->
+    <!-- Business Term deposit -->
+    <!-- Interest Paid At Maturity -->
+    <rate key="BBTD-AM-1-2" value="1.75"/>
+    <rate key="BBTD-AM-2-3" value="2.10"/>
+    <rate key="BBTD-AM-3-4" value="2.00"/>
+    <rate key="BBTD-AM-4-5" value="2.00"/>
+    <rate key="BBTD-AM-5-6" value="2.00"/>
+    <rate key="BBTD-AM-6-7" value="2.05"/>
+    <rate key="BBTD-AM-7-8" value="2.00"/>
+    <rate key="BBTD-AM-8-9" value="2.00"/>
+    <rate key="BBTD-AM-9-10" value="1.95"/>
+    <rate key="BBTD-AM-10-11" value="1.95"/>
+    <rate key="BBTD-AM-11-12" value="1.95"/>
+    <!-- Interest Paid Monthly -->
+    <rate key="BBTD-MI-1-2" value="1.75"/>
+    <rate key="BBTD-MI-2-3" value="2.05"/>
+    <rate key="BBTD-MI-3-4" value="1.95"/>
+    <rate key="BBTD-MI-4-5" value="1.95"/>
+    <rate key="BBTD-MI-5-6" value="1.95"/>
+    <rate key="BBTD-MI-6-7" value="2.00"/>
+    <rate key="BBTD-MI-7-8" value="1.95"/>
+    <rate key="BBTD-MI-8-9" value="1.95"/>
+    <rate key="BBTD-MI-9-10" value="1.90"/>
+    <rate key="BBTD-MI-10-11" value="1.90"/>
+    <rate key="BBTD-MI-11-12" value="1.90"/>
+    <rate key="BBTD-MI-12-18" value="1.85"/>
+    <rate key="BBTD-MI-18-24" value="1.85"/>
+    <rate key="BBTD-MI-24-36" value="1.85"/>
+    <rate key="BBTD-MI-36-48" value="1.85"/>
+    <rate key="BBTD-MI-48-60" value="1.85"/>
+    <rate key="BBTD-MI-60" value="1.85"/>
+    <!-- Interest Paid Quarterly -->
+    <rate key="BBTD-QI-3-4" value="2.00"/>
+    <rate key="BBTD-QI-4-5" value="1.95"/>
+    <rate key="BBTD-QI-5-6" value="1.95"/>
+    <rate key="BBTD-QI-6-7" value="2.00"/>
+    <rate key="BBTD-QI-7-8" value="1.95"/>
+    <rate key="BBTD-QI-8-9" value="1.95"/>
+    <rate key="BBTD-QI-9-10" value="1.90"/>
+    <rate key="BBTD-QI-10-11" value="1.90"/>
+    <rate key="BBTD-QI-11-12" value="1.90"/>
+    <rate key="BBTD-QI-12-18" value="1.85"/>
+    <rate key="BBTD-QI-18-24" value="1.85"/>
+    <rate key="BBTD-QI-24-36" value="1.85"/>
+    <rate key="BBTD-QI-36-48" value="1.85"/>
+    <rate key="BBTD-QI-48-60" value="1.85"/>
+    <rate key="BBTD-QI-60" value="1.85"/>
+    <!-- Interest Paid Half Yearly -->
+    <rate key="BBTD-HY-6-7" value="2.05"/>
+    <rate key="BBTD-HY-7-8" value="1.95"/>
+    <rate key="BBTD-HY-8-9" value="1.95"/>
+    <rate key="BBTD-HY-9-10" value="1.90"/>
+    <rate key="BBTD-HY-10-11" value="1.90"/>
+    <rate key="BBTD-HY-11-12" value="1.90"/>
+    <rate key="BBTD-HY-12-18" value="1.85"/>
+    <rate key="BBTD-HY-18-24" value="1.85"/>
+    <rate key="BBTD-HY-24-36" value="1.85"/>
+    <rate key="BBTD-HY-36-48" value="1.85"/>
+    <rate key="BBTD-HY-48-60" value="1.85"/>
+    <rate key="BBTD-HY-60" value="1.85"/>
+    <!-- Interest Paid Annually -->
+    <rate key="BBTD-AI-12-18" value="1.90"/>
+    <rate key="BBTD-AI-18-24" value="1.90"/>
+    <rate key="BBTD-AI-24-36" value="1.90"/>
+    <rate key="BBTD-AI-36-48" value="1.90"/>
+    <rate key="BBTD-AI-48-60" value="1.90"/>
+    <rate key="BBTD-AI-60" value="1.90"/>
+    <!-- ======================================== -->
+    <!-- T24 REFERENCE RATES OWNER OCCUPIED -->
+    <!-- Basic Home Loan -->
+    <rate key="Ref-B1-var" value="4.28"/>
+    <!-- Flexible Home Loan -->
+    <rate key="Ref-FH-var" value="4.87"/>
+    <!-- Flexible Home Loan - Member Package -->
+    <rate key="Ref-FHMP-var" value="4.67"/>
+    <!-- ======================================== -->
+    <!-- T24 REFERENCE COMPARISON RATES OWNER OCCUPIED -->
+    <!-- Basic Home Loan -->
+    <rate key="Ref-B1-var-comp" value="4.30"/>
+    <!-- Flexible Home Loan -->
+    <rate key="Ref-FH-var-comp" value="4.89"/>
+    <!-- Flexible Home Loan - Member Package -->
+    <rate key="Ref-FHMP-var-comp" value="5.08"/>
+    <!-- ======================================== -->
+    <!-- T24 REFERENCE RATES INVESTMENT -->
+    <!-- Basic Home Loan -->
+    <rate key="Ref-B1-var-INV" value="4.58"/>
+    <!-- Flexible Home Loan -->
+    <rate key="Ref-FH-var-INV" value="5.17"/>
+    <!-- Flexible Home Loan - Member Package -->
+    <rate key="Ref-FHMP-var-INV" value="4.97"/>
+    <!-- ======================================== -->
+    <!-- T24 REFERENCE COMPARISON RATES INVESTMENT -->
+    <!-- Basic Home Loan -->
+    <rate key="Ref-B1-var-comp-INV" value="4.60"/>
+    <!-- Flexible Home Loan -->
+    <rate key="Ref-FH-var-comp-INV" value="5.19"/>
+    <!-- Flexible Home Loan - Member Package -->
+    <rate key="Ref-FHMP-var-comp-INV" value="5.37"/>
+    <!-- ======================================== -->
+    <!-- T24 BASIC HOME LOAN RATES -->
+    <!-- Owner Occupied -->
+    <rate key="B1-var-0to80LVR" value="3.57"/>
+    <rate key="B1-var-morethan80LVR" value="3.92"/>
+    <!-- Investment -->
+    <rate key="B1-var-INV-0to80LVR" value="4.17"/>
+    <rate key="B1-var-INV-morethan80LVR" value="4.87"/>
+    <!-- ======================================== -->
+    <!-- T24 BASIC HOME LOAN COMPARISON RATES -->
+    <!-- Owner Occupied -->
+    <rate key="B1-var-comp-0to80LVR" value="3.59"/>
+    <rate key="B1-var-comp-morethan80LVR" value="3.94"/>
+    <!-- Investment -->
+    <rate key="B1-var-comp-INV-0to80LVR" value="4.19"/>
+    <rate key="B1-var-comp-INV-morethan80LVR" value="4.89"/>
+    <!-- ======================================== -->
+    <!-- T24 BASIC HOME LOAN MARGIN RATES -->
+    <!-- Owner Occupied -->
+    <rate key="B1-var-margin-0to80LVR" value="-0.71"/>
+    <rate key="B1-var-margin-morethan80LVR" value="-0.36"/>
+    <!-- Investment -->
+    <rate key="B1-var-margin-INV-0to80LVR" value="-0.41"/>
+    <rate key="B1-var-margin-INV-morethan80LVR" value="+0.29"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN VARIABLE RATES -->
+    <!-- Owner Occupied -->
+    <rate key="FH-var-0to80LVR" value="4.71"/>
+    <rate key="FH-var-80to90LVR" value="5.01"/>
+    <!-- Investment -->
+    <rate key="FH-var-INV-0to80LVR" value="5.47"/>
+    <rate key="FH-var-INV-80to90LVR" value="5.77"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN VARIABLE COMPARISON RATES -->
+    <!-- Owner Occupied -->
+    <rate key="FH-var-comp-0to80LVR" value="4.73"/>
+    <rate key="FH-var-comp-80to90LVR" value="5.03"/>
+    <!-- Investment -->
+    <rate key="FH-var-comp-INV-0to80LVR" value="5.49"/>
+    <rate key="FH-var-comp-INV-80to90LVR" value="5.79"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN VARIABLE MARGIN RATES -->
+    <!-- Owner Occupied -->
+    <rate key="FH-var-margin-0to80LVR" value="-0.16"/>
+    <rate key="FH-var-margin-80to90LVR" value="+0.14"/>
+    <!-- Investment -->
+    <rate key="FH-var-margin-INV-0to80LVR" value="+0.30"/>
+    <rate key="FH-var-margin-INV-80to90LVR" value="+0.60"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN FIXED RATES -->
+    <!-- Owner Occupied -->
+    <rate key="FH-ARREAR-fix-1-0to80LVR" value="3.78"/>
+    <rate key="FH-ARREAR-fix-2-0to80LVR" value="3.42"/>
+    <rate key="FH-ARREAR-fix-3-0to80LVR" value="3.33"/>
+    <rate key="FH-ARREAR-fix-4-0to80LVR" value="3.73"/>
+    <rate key="FH-ARREAR-fix-5-0to80LVR" value="3.73"/>
+    <rate key="FH-ARREAR-fix-6-0to80LVR" value="5.64"/>
+    <rate key="FH-ARREAR-fix-7-0to80LVR" value="5.64"/>
+    <!-- Investment -->
+    <rate key="FH-ARREAR-fix-1-INV-0to80LVR" value="3.83"/>
+    <rate key="FH-ARREAR-fix-2-INV-0to80LVR" value="3.73"/>
+    <rate key="FH-ARREAR-fix-3-INV-0to80LVR" value="3.63"/>
+    <rate key="FH-ARREAR-fix-4-INV-0to80LVR" value="4.03"/>
+    <rate key="FH-ARREAR-fix-5-INV-0to80LVR" value="4.03"/>
+    <rate key="FH-ARREAR-fix-6-INV-0to80LVR" value="6.44"/>
+    <rate key="FH-ARREAR-fix-7-INV-0to80LVR" value="6.44"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN FIXED COMPARISON RATES -->
+    <!-- Owner Occupied LVR 80 or less -->
+    <rate key="FH-ARREAR-fix-1-comp-0to80LVR" value="4.64"/>
+    <rate key="FH-ARREAR-fix-2-comp-0to80LVR" value="4.50"/>
+    <rate key="FH-ARREAR-fix-3-comp-0to80LVR" value="4.37"/>
+    <rate key="FH-ARREAR-fix-4-comp-0to80LVR" value="4.40"/>
+    <rate key="FH-ARREAR-fix-5-comp-0to80LVR" value="4.33"/>
+    <rate key="FH-ARREAR-fix-6-comp-0to80LVR" value="5.19"/>
+    <rate key="FH-ARREAR-fix-7-comp-0to80LVR" value="5.24"/>
+    <!-- Owner Occupied LVR above 80 and less than or equal to 90 -->
+    <rate key="FH-ARREAR-fix-1-comp-80to90LVR" value="4.91"/>
+    <rate key="FH-ARREAR-fix-2-comp-80to90LVR" value="4.74"/>
+    <rate key="FH-ARREAR-fix-3-comp-80to90LVR" value="4.59"/>
+    <rate key="FH-ARREAR-fix-4-comp-80to90LVR" value="4.59"/>
+    <rate key="FH-ARREAR-fix-5-comp-80to90LVR" value="4.50"/>
+    <rate key="FH-ARREAR-fix-6-comp-80to90LVR" value="5.34"/>
+    <rate key="FH-ARREAR-fix-7-comp-80to90LVR" value="5.38"/>
+    <!-- Investment LVR 80 or less -->
+    <rate key="FH-ARREAR-fix-1-comp-INV-0to80LVR" value="5.33"/>
+    <rate key="FH-ARREAR-fix-2-comp-INV-0to80LVR" value="5.16"/>
+    <rate key="FH-ARREAR-fix-3-comp-INV-0to80LVR" value="4.99"/>
+    <rate key="FH-ARREAR-fix-4-comp-INV-0to80LVR" value="4.99"/>
+    <rate key="FH-ARREAR-fix-5-comp-INV-0to80LVR" value="4.89"/>
+    <rate key="FH-ARREAR-fix-6-comp-INV-0to80LVR" value="5.98"/>
+    <rate key="FH-ARREAR-fix-7-comp-INV-0to80LVR" value="6.04"/>
+    <!-- Investment LVR above 80 and less than or equal to 90 -->
+    <rate key="FH-ARREAR-fix-1-comp-INV-80to90LVR" value="5.60"/>
+    <rate key="FH-ARREAR-fix-2-comp-INV-80to90LVR" value="5.40"/>
+    <rate key="FH-ARREAR-fix-3-comp-INV-80to90LVR" value="5.21"/>
+    <rate key="FH-ARREAR-fix-4-comp-INV-80to90LVR" value="5.18"/>
+    <rate key="FH-ARREAR-fix-5-comp-INV-80to90LVR" value="5.06"/>
+    <rate key="FH-ARREAR-fix-6-comp-INV-80to90LVR" value="6.13"/>
+    <rate key="FH-ARREAR-fix-7-comp-INV-80to90LVR" value="6.17"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP VARIABLE RATES - OWNER OCCUPIED -->
+    <!-- Owner Occupied - Balances less than 150K -->
+    <rate key="FHMP-var-0to80LVR-lessthan150K" value="4.51"/>
+    <rate key="FHMP-var-80to90LVR-lessthan150K" value="4.51"/>
+    <rate key="FHMP-var-morethan90LVR-lessthan150K" value="4.86"/>
+    <!-- Owner Occupied - Balances 150K to 400K -->
+    <rate key="FHMP-var-0to80LVR-150to400K" value="3.47"/>
+    <rate key="FHMP-var-80to90LVR-150to400K" value="3.67"/>
+    <rate key="FHMP-var-morethan90LVR-150to400K" value="4.31"/>
+    <!-- Owner Occupied - Balances 400K to 700K -->
+    <rate key="FHMP-var-0to80LVR-400to700K" value="3.34"/>
+    <rate key="FHMP-var-80to90LVR-400to700K" value="3.57"/>
+    <rate key="FHMP-var-morethan90LVR-400to700K" value="4.31"/>
+    <!-- Owner Occupied - Balances 700K or more -->
+    <rate key="FHMP-var-0to80LVR-700Kormore" value="3.29"/>
+    <rate key="FHMP-var-80to90LVR-700Kormore" value="3.57"/>
+    <rate key="FHMP-var-morethan90LVR-700Kormore" value="4.31"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP VARIABLE COMPARISON RATES - OWNER OCCUPIED -->
+    <!-- Owner Occupied - Balances less than 150K -->
+    <rate key="FHMP-var-comp-0to80LVR-lessthan150K" value="4.92"/>
+    <rate key="FHMP-var-comp-80to90LVR-lessthan150K" value="4.92"/>
+    <rate key="FHMP-var-comp-morethan90LVR-lessthan150K" value="5.27"/>
+    <!-- Owner Occupied - Balances 150K to 400K -->
+    <rate key="FHMP-var-comp-0to80LVR-150to400K" value="3.90"/>
+    <rate key="FHMP-var-comp-80to90LVR-150to400K" value="4.10"/>
+    <rate key="FHMP-var-comp-morethan90LVR-150to400K" value="4.73"/>
+    <!-- Owner Occupied - Balances 400K to 700K -->
+    <rate key="FHMP-var-comp-0to80LVR-400to700K" value="3.78"/>
+    <rate key="FHMP-var-comp-80to90LVR-400to700K" value="4.00"/>
+    <rate key="FHMP-var-comp-morethan90LVR-400to700K" value="4.73"/>
+    <!-- Owner Occupied - Balances more than 700K -->
+    <rate key="FHMP-var-comp-0to80LVR-700Kormore" value="3.73"/>
+    <rate key="FHMP-var-comp-80to90LVR-700Kormore" value="4.00"/>
+    <rate key="FHMP-var-comp-morethan90LVR-700Kormore" value="4.73"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP VARIABLE MARGIN RATES - OWNER OCCUPIED -->
+    <!-- Owner Occupied - Balances less than 150K -->
+    <rate key="FHMP-var-margin-0to80LVR-lessthan150K" value="-0.16"/>
+    <rate key="FHMP-var-margin-80to90LVR-lessthan150K" value="-0.16"/>
+    <rate key="FHMP-var-margin-morethan90LVR-lessthan150K" value="+0.19"/>
+    <!-- Owner Occupied - Balances 150K to 400K -->
+    <rate key="FHMP-var-margin-0to80LVR-150to400K" value="-1.20"/>
+    <rate key="FHMP-var-margin-80to90LVR-150to400K" value="-1.00"/>
+    <rate key="FHMP-var-margin-morethan90LVR-150to400K" value="-0.36"/>
+    <!-- Owner Occupied - Balances 400K to 700K -->
+    <rate key="FHMP-var-margin-0to80LVR-400to700K" value="-1.33"/>
+    <rate key="FHMP-var-margin-80to90LVR-400to700K" value="-1.10"/>
+    <rate key="FHMP-var-margin-morethan90LVR-400to700K" value="-0.36"/>
+    <!-- Owner Occupied - Balances more than 700K -->
+    <rate key="FHMP-var-margin-0to80LVR-700Kormore" value="-1.38"/>
+    <rate key="FHMP-var-margin-80to90LVR-700Kormore" value="-1.10"/>
+    <rate key="FHMP-var-margin-morethan90LVR-700Kormore" value="-0.36"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP VARIABLE RATES - INVESTMENT -->
+    <!-- Investment - Balances less than 150K -->
+    <rate key="FHMP-var-INV-0to80LVR-lessthan150K" value="4.76"/>
+    <rate key="FHMP-var-INV-80to90LVR-lessthan150K" value="4.76"/>
+    <rate key="FHMP-var-INV-morethan90LVR-lessthan150K" value="5.62"/>
+    <!-- Investment - Balances 150K to 400K -->
+    <rate key="FHMP-var-INV-0to80LVR-150to400K" value="3.77"/>
+    <rate key="FHMP-var-INV-80to90LVR-150to400K" value="3.95"/>
+    <rate key="FHMP-var-INV-morethan90LVR-150to400K" value="5.62"/>
+    <!-- Investment - Balances 400K to 700K -->
+    <rate key="FHMP-var-INV-0to80LVR-400to700K" value="3.77"/>
+    <rate key="FHMP-var-INV-80to90LVR-400to700K" value="3.95"/>
+    <rate key="FHMP-var-INV-morethan90LVR-400to700K" value="5.62"/>
+    <!-- Investment - Balances 700K or more -->
+    <rate key="FHMP-var-INV-0to80LVR-700Kormore" value="3.77"/>
+    <rate key="FHMP-var-INV-80to90LVR-700Kormore" value="3.95"/>
+    <rate key="FHMP-var-INV-morethan90LVR-700Kormore" value="5.62"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP VARIABLE COMPARISON RATES - INVESTMENT -->
+    <rate key="FHMP-var-comp-INV-0to80LVR-lessthan150K" value="5.17"/>
+    <rate key="FHMP-var-comp-INV-80to90LVR-lessthan150K" value="5.17"/>
+    <rate key="FHMP-var-comp-INV-morethan90LVR-lessthan150K" value="6.01"/>
+    <!-- Investment - Balances 150K to 400K -->
+    <rate key="FHMP-var-comp-INV-0to80LVR-150to400K" value="4.20"/>
+    <rate key="FHMP-var-comp-INV-80to90LVR-150to400K" value="4.37"/>
+    <rate key="FHMP-var-comp-INV-morethan90LVR-150to400K" value="6.01"/>
+    <!-- Investment - Balances 400K to 700K -->
+    <rate key="FHMP-var-comp-INV-0to80LVR-400to700K" value="4.20"/>
+    <rate key="FHMP-var-comp-INV-80to90LVR-400to700K" value="4.37"/>
+    <rate key="FHMP-var-comp-INV-morethan90LVR-400to700K" value="6.01"/>
+    <!-- Investment - Balances more than 700K -->
+    <rate key="FHMP-var-comp-INV-0to80LVR-700Kormore" value="4.20"/>
+    <rate key="FHMP-var-comp-INV-80to90LVR-700Kormore" value="4.37"/>
+    <rate key="FHMP-var-comp-INV-morethan90LVR-700Kormore" value="6.01"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP VARIABLE MARGIN RATES - INVESTMENT -->
+    <!-- Investment - Balances less than 150K -->
+    <rate key="FHMP-var-margin-INV-0to80LVR-lessthan150K" value="-0.21"/>
+    <rate key="FHMP-var-margin-INV-80to90LVR-lessthan150K" value="-0.21"/>
+    <rate key="FHMP-var-margin-INV-morethan90LVR-lessthan150K" value="+0.65"/>
+    <!-- Investment - Balances 150K to 400K -->
+    <rate key="FHMP-var-margin-INV-0to80LVR-150to400K" value="-1.20"/>
+    <rate key="FHMP-var-margin-INV-80to90LVR-150to400K" value="-1.02"/>
+    <rate key="FHMP-var-margin-INV-morethan90LVR-150to400K" value="+0.65"/>
+    <!-- Investment - Balances 400K to 700K -->
+    <rate key="FHMP-var-margin-INV-0to80LVR-400to700K" value="-1.20"/>
+    <rate key="FHMP-var-margin-INV-80to90LVR-400to700K" value="-1.02"/>
+    <rate key="FHMP-var-margin-INV-morethan90LVR-400to700K" value="+0.65"/>
+    <!-- Investment - Balances more than 700K -->
+    <rate key="FHMP-var-margin-INV-0to80LVR-700Kormore" value="-1.20"/>
+    <rate key="FHMP-var-margin-INV-80to90LVR-700Kormore" value="-1.02"/>
+    <rate key="FHMP-var-margin-INV-morethan90LVR-700Kormore" value="+0.65"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP FIXED RATES - OWNER OCCUPIED -->
+    <rate key="FHMP-ARREAR-fix-1-0to80LVR" value="3.63"/>
+    <rate key="FHMP-ARREAR-fix-2-0to80LVR" value="3.27"/>
+    <rate key="FHMP-ARREAR-fix-3-0to80LVR" value="3.18"/>
+    <rate key="FHMP-ARREAR-fix-4-0to80LVR" value="3.58"/>
+    <rate key="FHMP-ARREAR-fix-5-0to80LVR" value="3.58"/>
+    <rate key="FHMP-ARREAR-fix-6-0to80LVR" value="5.49"/>
+    <rate key="FHMP-ARREAR-fix-7-0to80LVR" value="5.49"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP FIXED COMPARISON RATES - OWNER OCCUPIED -->
+    <!-- Owner Occupied - Balances less than 150K - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-0to80LVR-lessthan150K" value="4.84"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-0to80LVR-lessthan150K" value="4.70"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-0to80LVR-lessthan150K" value="4.57"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-0to80LVR-lessthan150K" value="4.61"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-0to80LVR-lessthan150K" value="4.54"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-0to80LVR-lessthan150K" value="5.40"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-0to80LVR-lessthan150K" value="5.46"/>
+    <!-- Owner Occupied - Balances less than 150K - LVR 80 to 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-80to90LVR-lessthan150K" value="4.84"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-80to90LVR-lessthan150K" value="4.70"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-80to90LVR-lessthan150K" value="4.57"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-80to90LVR-lessthan150K" value="4.61"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-80to90LVR-lessthan150K" value="4.54"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-80to90LVR-lessthan150K" value="5.40"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-80to90LVR-lessthan150K" value="5.46"/>
+    <!-- Owner Occupied - Balances less than 150K - LVR more than 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-morethan90LVR-lessthan150K" value="5.19"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-morethan90LVR-lessthan150K" value="5.10"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-morethan90LVR-lessthan150K" value="5.06"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-morethan90LVR-lessthan150K" value="5.10"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-morethan90LVR-lessthan150K" value="5.15"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-morethan90LVR-lessthan150K" value="5.62"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-morethan90LVR-lessthan150K" value="5.67"/>
+    <!-- Owner Occupied - Balances 150K to 400K - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-0to80LVR-150to400K" value="3.92"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-0to80LVR-150to400K" value="3.87"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-0to80LVR-150to400K" value="3.83"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-0to80LVR-150to400K" value="3.94"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-0to80LVR-150to400K" value="3.95"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-0to80LVR-150to400K" value="4.87"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-0to80LVR-150to400K" value="5.00"/>
+    <!-- Owner Occupied - Balances 150K to 400K - LVR 80 to 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-80to90LVR-150to400K" value="4.10"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-80to90LVR-150to400K" value="4.03"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-80to90LVR-150to400K" value="3.97"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-80to90LVR-150to400K" value="4.07"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-80to90LVR-150to400K" value="4.06"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-80to90LVR-150to400K" value="4.98"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-80to90LVR-150to400K" value="5.09"/>
+    <!-- Owner Occupied - Balances 150K to 400K - LVR more than 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-morethan90LVR-150to400K" value="4.71"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-morethan90LVR-150to400K" value="4.66"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-morethan90LVR-150to400K" value="4.67"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-morethan90LVR-150to400K" value="4.75"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-morethan90LVR-150to400K" value="4.84"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-morethan90LVR-150to400K" value="5.35"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-morethan90LVR-150to400K" value="5.43"/>
+    <!-- Owner Occupied - Balances 400K to 700K - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-0to80LVR-400to700K" value="3.80"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-0to80LVR-400to700K" value="3.77"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-0to80LVR-400to700K" value="3.74"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-0to80LVR-400to700K" value="3.86"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-0to80LVR-400to700K" value="3.87"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-0to80LVR-400to700K" value="4.81"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-0to80LVR-400to700K" value="4.94"/>
+    <!-- Owner Occupied - Balances 400K to 700K - LVR 80 to 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-80to90LVR-400to700K" value="4.01"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-80to90LVR-400to700K" value="3.95"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-80to90LVR-400to700K" value="3.90"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-80to90LVR-400to700K" value="4.01"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-80to90LVR-400to700K" value="4.01"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-80to90LVR-400to700K" value="4.93"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-80to90LVR-400to700K" value="5.04"/>
+    <!-- Owner Occupied - Balances 400K to 700K - LVR more than 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-morethan90LVR-400to700K" value="4.71"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-morethan90LVR-400to700K" value="4.66"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-morethan90LVR-400to700K" value="4.67"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-morethan90LVR-400to700K" value="4.75"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-morethan90LVR-400to700K" value="4.84"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-morethan90LVR-400to700K" value="5.35"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-morethan90LVR-400to700K" value="5.43"/>
+    <!-- Owner Occupied - Balances 700K or more - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-0to80LVR-700Kormore" value="3.76"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-0to80LVR-700Kormore" value="3.73"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-0to80LVR-700Kormore" value="3.70"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-0to80LVR-700Kormore" value="3.82"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-0to80LVR-700Kormore" value="3.84"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-0to80LVR-700Kormore" value="4.78"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-0to80LVR-700Kormore" value="4.92"/>
+    <!-- Owner Occupied - Balances 700K or more - LVR 80 to 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-80to90LVR-700Kormore" value="4.01"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-80to90LVR-700Kormore" value="3.95"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-80to90LVR-700Kormore" value="3.90"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-80to90LVR-700Kormore" value="4.01"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-80to90LVR-700Kormore" value="4.01"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-80to90LVR-700Kormore" value="4.93"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-80to90LVR-700Kormore" value="5.04"/>
+    <!-- Owner Occupied - Balances 700K or more - LVR more than 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-morethan90LVR-700Kormore" value="4.71"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-morethan90LVR-700Kormore" value="4.66"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-morethan90LVR-700Kormore" value="4.67"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-morethan90LVR-700Kormore" value="4.75"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-morethan90LVR-700Kormore" value="4.84"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-morethan90LVR-700Kormore" value="5.35"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-morethan90LVR-700Kormore" value="5.43"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP FIXED RATES - INVESTMENT -->
+    <rate key="FHMP-ARREAR-fix-1-INV-0to80LVR" value="3.68"/>
+    <rate key="FHMP-ARREAR-fix-2-INV-0to80LVR" value="3.58"/>
+    <rate key="FHMP-ARREAR-fix-3-INV-0to80LVR" value="3.48"/>
+    <rate key="FHMP-ARREAR-fix-4-INV-0to80LVR" value="3.88"/>
+    <rate key="FHMP-ARREAR-fix-5-INV-0to80LVR" value="3.88"/>
+    <rate key="FHMP-ARREAR-fix-6-INV-0to80LVR" value="6.29"/>
+    <rate key="FHMP-ARREAR-fix-7-INV-0to80LVR" value="6.29"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP FIXED COMPARISON RATES - INVESTMENT -->
+    <!-- Investment - Balances less than 150K - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-0to80LVR-lessthan150K" value="5.06"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-0to80LVR-lessthan150K" value="4.95"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-0to80LVR-lessthan150K" value="4.83"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-0to80LVR-lessthan150K" value="4.87"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-0to80LVR-lessthan150K" value="4.81"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-0to80LVR-lessthan150K" value="5.93"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-0to80LVR-lessthan150K" value="6.02"/>
+    <!-- Investment - Balances less than 150K - LVR 80 to 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-80to90LVR-lessthan150K" value="5.06"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-80to90LVR-lessthan150K" value="4.95"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-80to90LVR-lessthan150K" value="4.83"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-80to90LVR-lessthan150K" value="4.87"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-80to90LVR-lessthan150K" value="4.81"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-80to90LVR-lessthan150K" value="5.93"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-80to90LVR-lessthan150K" value="6.02"/>
+    <!-- Investment - Balances less than 150K - LVR more than 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-morethan90LVR-lessthan150K" value="5.82"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-morethan90LVR-lessthan150K" value="5.63"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-morethan90LVR-lessthan150K" value="5.43"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-morethan90LVR-lessthan150K" value="5.41"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-morethan90LVR-lessthan150K" value="5.29"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-morethan90LVR-lessthan150K" value="6.35"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-morethan90LVR-lessthan150K" value="6.39"/>
+    <!-- Investment - Balances 150K to 400K - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-0to80LVR-150to400K" value="4.19"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-0to80LVR-150to400K" value="4.16"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-0to80LVR-150to400K" value="4.12"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-0to80LVR-150to400K" value="4.23"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-0to80LVR-150to400K" value="4.24"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-0to80LVR-150to400K" value="5.43"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-0to80LVR-150to400K" value="5.59"/>
+    <!-- Investment - Balances 150K to 400K - LVR 80 to 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-80to90LVR-150to400K" value="4.35"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-80to90LVR-150to400K" value="4.31"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-80to90LVR-150to400K" value="4.25"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-80to90LVR-150to400K" value="4.35"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-80to90LVR-150to400K" value="4.35"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-80to90LVR-150to400K" value="5.52"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-80to90LVR-150to400K" value="5.67"/>
+    <!-- Investment - Balances 150K to 400K - LVR more than 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-morethan90LVR-150to400K" value="5.89"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-morethan90LVR-150to400K" value="5.75"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-morethan90LVR-150to400K" value="5.62"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-morethan90LVR-150to400K" value="5.69"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-morethan90LVR-150to400K" value="5.70"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-morethan90LVR-150to400K" value="6.40"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-morethan90LVR-150to400K" value="6.45"/>
+    <!-- Investment - Balances 400K to 700K - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-0to80LVR-400to700K" value="4.19"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-0to80LVR-400to700K" value="4.16"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-0to80LVR-400to700K" value="4.12"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-0to80LVR-400to700K" value="4.23"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-0to80LVR-400to700K" value="4.24"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-0to80LVR-400to700K" value="5.43"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-0to80LVR-400to700K" value="5.59"/>
+    <!-- Investment - Balances 400K to 700K - LVR 80 to 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-80to90LVR-400to700K" value="4.35"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-80to90LVR-400to700K" value="4.31"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-80to90LVR-400to700K" value="4.25"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-80to90LVR-400to700K" value="4.35"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-80to90LVR-400to700K" value="4.35"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-80to90LVR-400to700K" value="5.52"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-80to90LVR-400to700K" value="5.67"/>
+    <!-- Investment - Balances 400K to 700K - LVR more than 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-morethan90LVR-400to700K" value="5.82"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-morethan90LVR-400to700K" value="5.63"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-morethan90LVR-400to700K" value="5.43"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-morethan90LVR-400to700K" value="5.41"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-morethan90LVR-400to700K" value="5.29"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-morethan90LVR-400to700K" value="6.35"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-morethan90LVR-400to700K" value="6.39"/>
+    <!-- Investment - Balances 700K or more - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-0to80LVR-700Kormore" value="4.19"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-0to80LVR-700Kormore" value="4.16"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-0to80LVR-700Kormore" value="4.12"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-0to80LVR-700Kormore" value="4.23"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-0to80LVR-700Kormore" value="4.24"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-0to80LVR-700Kormore" value="5.43"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-0to80LVR-700Kormore" value="5.59"/>
+    <!-- Investment - Balances 700K or more - LVR 80 to 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-80to90LVR-700Kormore" value="4.35"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-80to90LVR-700Kormore" value="4.31"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-80to90LVR-700Kormore" value="4.25"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-80to90LVR-700Kormore" value="4.35"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-80to90LVR-700Kormore" value="4.35"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-80to90LVR-700Kormore" value="5.52"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-80to90LVR-700Kormore" value="5.67"/>
+    <!-- Investment - Balances 700K or more - LVR more than 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-morethan90LVR-700Kormore" value="5.82"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-morethan90LVR-700Kormore" value="5.63"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-morethan90LVR-700Kormore" value="5.43"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-morethan90LVR-700Kormore" value="5.41"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-morethan90LVR-700Kormore" value="5.29"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-morethan90LVR-700Kormore" value="6.35"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-morethan90LVR-700Kormore" value="6.39"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP VARIABLE RATES - OWNER OCCUPIED - MBP -->
+    <!-- Owner Occupied - Balances less than 150K - MBP -->
+    <rate key="FHMP-var-0to80LVR-Lessthan150K-MBP" value="4.51"/>
+    <rate key="FHMP-var-80to90LVR-Lessthan150K-MBP" value="4.51"/>
+    <rate key="FHMP-var-morethan90LVR-Lessthan150K-MBP" value="4.86"/>
+    <!-- Owner Occupied - Balances 150K to 400K - MBP -->
+    <rate key="FHMP-var-0to80LVR-150to400K-MBP" value="3.47"/>
+    <rate key="FHMP-var-80to90LVR-150to400K-MBP" value="3.67"/>
+    <rate key="FHMP-var-morethan90LVR-150to400K-MBP" value="4.31"/>
+    <!-- Owner Occupied - Balances 400K to 700K - MBP -->
+    <rate key="FHMP-var-0to80LVR-400to700K-MBP" value="3.34"/>
+    <rate key="FHMP-var-80to90LVR-400to700K-MBP" value="3.57"/>
+    <rate key="FHMP-var-morethan90LVR-400to700K-MBP" value="4.31"/>
+    <!-- Owner Occupied - Balances 700K or more - MBP -->
+    <rate key="FHMP-var-0to80LVR-700Kormore-MBP" value="3.29"/>
+    <rate key="FHMP-var-80to90LVR-700Kormore-MBP" value="3.57"/>
+    <rate key="FHMP-var-morethan90LVR-700Kormore-MBP" value="4.31"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP VARIABLE COMPARISON RATES - OWNER OCCUPIED - MBP -->
+    <!-- Owner Occupied - Balances less than 150K - MBP -->
+    <rate key="FHMP-var-comp-0to80LVR-lessthan150K-MBP" value="4.92"/>
+    <rate key="FHMP-var-comp-80to90LVR-lessthan150K-MBP" value="4.92"/>
+    <rate key="FHMP-var-comp-morethan90LVR-lessthan150K-MBP" value="5.27"/>
+    <!-- Owner Occupied - Balances 150K to 400K - MBP -->
+    <rate key="FHMP-var-comp-0to80LVR-150to400K-MBP" value="3.90"/>
+    <rate key="FHMP-var-comp-80to90LVR-150to400K-MBP" value="4.10"/>
+    <rate key="FHMP-var-comp-morethan90LVR-150to400K-MBP" value="4.73"/>
+    <!-- Owner Occupied - Balances 400K to 700K - MBP -->
+    <rate key="FHMP-var-comp-0to80LVR-400to700K-MBP" value="3.78"/>
+    <rate key="FHMP-var-comp-80to90LVR-400to700K-MBP" value="4.00"/>
+    <rate key="FHMP-var-comp-morethan90LVR-400to700K-MBP" value="4.73"/>
+    <!-- Owner Occupied - Balances more than 700K - MBP -->
+    <rate key="FHMP-var-comp-0to80LVR-700Kormore-MBP" value="3.73"/>
+    <rate key="FHMP-var-comp-80to90LVR-700Kormore-MBP" value="4.00"/>
+    <rate key="FHMP-var-comp-morethan90LVR-700Kormore-MBP" value="4.73"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP VARIABLE RATES - INVESTMENT - MBP -->
+    <!-- Investment - Balances less than 150K - MBP -->
+    <rate key="FHMP-var-INV-0to80LVR-Lessthan150K-MBP" value="4.76"/>
+    <rate key="FHMP-var-INV-80to90LVR-Lessthan150K-MBP" value="4.76"/>
+    <rate key="FHMP-var-INV-morethan90LVR-Lessthan150K-MBP" value="4.97"/>
+    <!-- Investment - Balances 150K to 400K - MBP -->
+    <rate key="FHMP-var-INV-0to80LVR-150to400K-MBP" value="3.77"/>
+    <rate key="FHMP-var-INV-80to90LVR-150to400K-MBP" value="3.95"/>
+    <rate key="FHMP-var-INV-morethan90LVR-150to400K-MBP" value="4.97"/>
+    <!-- Investment - Balances 400K to 700K - MBP -->
+    <rate key="FHMP-var-INV-0to80LVR-400to700K-MBP" value="3.77"/>
+    <rate key="FHMP-var-INV-80to90LVR-400to700K-MBP" value="3.95"/>
+    <rate key="FHMP-var-INV-morethan90LVR-400to700K-MBP" value="4.97"/>
+    <!-- Investment - Balances 700K or more - MBP -->
+    <rate key="FHMP-var-INV-0to80LVR-700Kormore-MBP" value="3.77"/>
+    <rate key="FHMP-var-INV-80to90LVR-700Kormore-MBP" value="3.95"/>
+    <rate key="FHMP-var-INV-morethan90LVR-700Kormore-MBP" value="4.97"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP VARIABLE COMPARISON RATES - INVESTMENT - MBP -->
+    <!-- Investment - Balances less than 150K - MBP -->
+    <rate key="FHMP-var-comp-INV-0to80LVR-lessthan150K-MBP" value="5.17"/>
+    <rate key="FHMP-var-comp-INV-80to90LVR-lessthan150K-MBP" value="5.17"/>
+    <rate key="FHMP-var-comp-INV-morethan90LVR-lessthan150K-MBP" value="5.37"/>
+    <!-- Investment - Balances 150K to 400K - MBP -->
+    <rate key="FHMP-var-comp-INV-0to80LVR-150to400K-MBP" value="4.20"/>
+    <rate key="FHMP-var-comp-INV-80to90LVR-150to400K-MBP" value="4.37"/>
+    <rate key="FHMP-var-comp-INV-morethan90LVR-150to400K-MBP" value="5.37"/>
+    <!-- Investment - Balances 400K to 700K - MBP -->
+    <rate key="FHMP-var-comp-INV-0to80LVR-400to700K-MBP" value="4.20"/>
+    <rate key="FHMP-var-comp-INV-80to90LVR-400to700K-MBP" value="4.37"/>
+    <rate key="FHMP-var-comp-INV-morethan90LVR-400to700K-MBP" value="5.37"/>
+    <!-- Investment - Balances more than 700K - MBP -->
+    <rate key="FHMP-var-comp-INV-0to80LVR-700Kormore-MBP" value="4.20"/>
+    <rate key="FHMP-var-comp-INV-80to90LVR-700Kormore-MBP" value="4.37"/>
+    <rate key="FHMP-var-comp-INV-morethan90LVR-700Kormore-MBP" value="5.37"/>
+    <!-- ======================================== -->
+    <!-- ME Retail MasterCard -->
+    <rate key="C1" value="12.25"/>
+    <!-- ======================================== -->
+    <!-- T24 BASIC HOME LOAN VARIABLE RATES - INTEREST ONLY -->
+    <!-- Owner Occupied - Interest Only -->
+    <rate key="B1-var-0to80LVR-IO" value="4.57"/>
+    <!-- Investment - Interest Only -->
+    <rate key="B1-var-INV-0to80LVR-IO" value="4.34"/>
+    <!-- ======================================== -->
+    <!-- T24 BASIC HOME LOAN VARIABLE COMPARISON RATES - INTEREST ONLY -->
+    <!-- Owner Occupied - Interest Only -->
+    <rate key="B1-var-comp-0to80LVR-IO" value="4.00"/>
+    <!-- Investment - Interest Only -->
+    <rate key="B1-var-comp-INV-0to80LVR-IO" value="4.26"/>
+    <!-- ======================================== -->
+    <!-- T24 BASIC HOME LOAN VARIABLE MARGIN RATES - INTEREST ONLY -->
+    <!-- Owner Occupied - Interest Only -->
+    <rate key="B1-var-margin-0to80LVR-IO" value="-0.21"/>
+    <!-- Investment - Interest Only -->
+    <rate key="B1-var-margin-INV-0to80LVR-IO" value="-0.69"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN VARIABLE RATES - INTEREST ONLY -->
+    <!-- Owner Occupied - Variable - Interest Only -->
+    <rate key="FH-var-0to80LVR-IO" value="5.51"/>
+    <!-- Investment - Variable - Interest Only -->
+    <rate key="FH-var-INV-0to80LVR-IO" value="6.27"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN VARIABLE COMPARISON RATES - INTEREST ONLY -->
+    <!-- Owner Occupied - Variable - Interest Only -->
+    <rate key="FH-var-comp-0to80LVR-IO" value="5.07"/>
+    <!-- Investment - Variable - Interest Only -->
+    <rate key="FH-var-comp-INV-0to80LVR-IO" value="5.84"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN VARIABLE MARGIN RATES - INTEREST ONLY -->
+    <!-- Owner Occupied - Variable - Interest Only -->
+    <rate key="FH-var-margin-0to80LVR-IO" value="+0.14"/>
+    <!-- Investment - Variable - Interest Only -->
+    <rate key="FH-var-margin-INV-0to80LVR-IO" value="+0.65"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP VARIABLE RATES - INTEREST ONLY -->
+    <!-- Owner Occupied - Variable - Interest Only - Less than 150K -->
+    <rate key="FHMP-var-0to80LVR-lessthan150K-IO" value="5.11"/>
+    <!-- Owner Occupied - Variable - Interest Only - 150K to 400K -->
+    <rate key="FHMP-var-0to80LVR-150to400K-IO" value="4.07"/>
+    <!-- Owner Occupied - Variable - Interest Only - 400K to 700K -->
+    <rate key="FHMP-var-0to80LVR-400to700K-IO" value="4.02"/>
+    <!-- Owner Occupied - Variable - Interest Only - More than 700K -->
+    <rate key="FHMP-var-0to80LVR-700Kormore-IO" value="4.02"/>
+    <!-- Investment - Variable - Interest Only - Less than 150K -->
+    <rate key="FHMP-var-INV-0to80LVR-lessthan150K-IO" value="5.16"/>
+    <!-- Investment - Variable - Interest Only - 150K to 400K -->
+    <rate key="FHMP-var-INV-0to80LVR-150to400K-IO" value="4.22"/>
+    <!-- Investment - Variable - Interest Only - 400K to 700K -->
+    <rate key="FHMP-var-INV-0to80LVR-400to700K-IO" value="4.12"/>
+    <!-- Investment - Variable - Interest Only - More than 700K -->
+    <rate key="FHMP-var-INV-0to80LVR-700Kormore-IO" value="4.12"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP VARIABLE COMPARISON RATES - INTEREST ONLY -->
+    <!-- Owner Occupied - Variable - Interest Only - Less than 150K -->
+    <rate key="FHMP-var-comp-0to80LVR-lessthan150K-IO" value="5.17"/>
+    <!-- Owner Occupied - Variable - Interest Only - 150K to 400K -->
+    <rate key="FHMP-var-comp-0to80LVR-150to400K-IO" value="4.15"/>
+    <!-- Owner Occupied - Variable - Interest Only - 400K to 700K -->
+    <rate key="FHMP-var-comp-0to80LVR-400to700K-IO" value="4.05"/>
+    <!-- Owner Occupied - Variable - Interest Only - More than 700K -->
+    <rate key="FHMP-var-comp-0to80LVR-700Kormore-IO" value="4.02"/>
+    <!-- Investment - Variable - Interest Only - Less than 150K -->
+    <rate key="FHMP-var-comp-INV-0to80LVR-lessthan150K-IO" value="5.34"/>
+    <!-- Investment - Variable - Interest Only - 150K to 400K -->
+    <rate key="FHMP-var-comp-INV-0to80LVR-150to400K-IO" value="4.38"/>
+    <!-- Investment - Variable - Interest Only - 400K to 700K -->
+    <rate key="FHMP-var-comp-INV-0to80LVR-400to700K-IO" value="4.34"/>
+    <!-- Investment - Variable - Interest Only - More than 700K -->
+    <rate key="FHMP-var-comp-INV-0to80LVR-700Kormore-IO" value="4.34"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP VARIABLE MARGIN RATES - INTEREST ONLY -->
+    <!-- Owner Occupied - Variable - Interest Only - Less than 150K -->
+    <rate key="FHMP-var-margin-0to80LVR-lessthan150K-IO" value="-0.06"/>
+    <!-- Owner Occupied - Variable - Interest Only - 150K to 400K -->
+    <rate key="FHMP-var-margin-0to80LVR-150to400K-IO" value="-1.10"/>
+    <!-- Owner Occupied - Variable - Interest Only - 400K to 700K -->
+    <rate key="FHMP-var-margin-0to80LVR-400to700K-IO" value="-1.15"/>
+    <!-- Owner Occupied - Variable - Interest Only - More than 700K -->
+    <rate key="FHMP-var-margin-0to80LVR-700Kormore-IO" value="-1.15"/>
+    <!-- Investment - Variable - Interest Only - Less than 150K -->
+    <rate key="FHMP-var-margin-INV-0to80LVR-lessthan150K-IO" value="-0.26"/>
+    <!-- Investment - Variable - Interest Only - 150K to 400K -->
+    <rate key="FHMP-var-margin-INV-0to80LVR-150to400K-IO" value="-1.20"/>
+    <!-- Investment - Variable - Interest Only - 400K to 700K -->
+    <rate key="FHMP-var-margin-INV-0to80LVR-400to700K-IO" value="-1.30"/>
+    <!-- Investment - Variable - Interest Only - More than 700K -->
+    <rate key="FHMP-var-margin-INV-0to80LVR-700Kormore-IO" value="-1.30"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN FIXED RATES - INTEREST ONLY -->
+    <!-- Owner Occupied - Fixed - Interest Only - LVR 80 or less -->
+    <rate key="FH-ARREAR-fix-1-0to80LVR-IO" value="4.74"/>
+    <rate key="FH-ARREAR-fix-2-0to80LVR-IO" value="4.49"/>
+    <rate key="FH-ARREAR-fix-3-0to80LVR-IO" value="4.44"/>
+    <rate key="FH-ARREAR-fix-4-0to80LVR-IO" value="5.04"/>
+    <rate key="FH-ARREAR-fix-5-0to80LVR-IO" value="5.24"/>
+    <rate key="FH-ARREAR-fix-6-0to80LVR-IO" value="6.24"/>
+    <rate key="FH-ARREAR-fix-7-0to80LVR-IO" value="6.24"/>
+    <!-- Investment - Fixed - Interest Only - LVR 80 or less -->
+    <rate key="FH-ARREAR-fix-1-INV-0to80LVR-IO" value="4.04"/>
+    <rate key="FH-ARREAR-fix-2-INV-0to80LVR-IO" value="3.94"/>
+    <rate key="FH-ARREAR-fix-3-INV-0to80LVR-IO" value="3.84"/>
+    <rate key="FH-ARREAR-fix-4-INV-0to80LVR-IO" value="4.14"/>
+    <rate key="FH-ARREAR-fix-5-INV-0to80LVR-IO" value="4.14"/>
+    <rate key="FH-ARREAR-fix-6-INV-0to80LVR-IO" value="6.84"/>
+    <rate key="FH-ARREAR-fix-7-INV-0to80LVR-IO" value="6.84"/>
+    <rate key="FH-ADVANCE-fix-1-INV-0to80LVR-IO" value="4.04"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN WITH MP FIXED RATES - INTEREST ONLY -->
+    <!-- Owner Occupied - Fixed - Interest Only - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-0to80LVR-IO" value="4.59"/>
+    <rate key="FHMP-ARREAR-fix-2-0to80LVR-IO" value="4.34"/>
+    <rate key="FHMP-ARREAR-fix-3-0to80LVR-IO" value="4.29"/>
+    <rate key="FHMP-ARREAR-fix-4-0to80LVR-IO" value="4.89"/>
+    <rate key="FHMP-ARREAR-fix-5-0to80LVR-IO" value="5.09"/>
+    <rate key="FHMP-ARREAR-fix-6-0to80LVR-IO" value="6.09"/>
+    <rate key="FHMP-ARREAR-fix-7-0to80LVR-IO" value="6.09"/>
+    <!-- Investment - Fixed - Interest Only - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-INV-0to80LVR-IO" value="3.89"/>
+    <rate key="FHMP-ARREAR-fix-2-INV-0to80LVR-IO" value="3.79"/>
+    <rate key="FHMP-ARREAR-fix-3-INV-0to80LVR-IO" value="3.69"/>
+    <rate key="FHMP-ARREAR-fix-4-INV-0to80LVR-IO" value="3.99"/>
+    <rate key="FHMP-ARREAR-fix-5-INV-0to80LVR-IO" value="3.99"/>
+    <rate key="FHMP-ARREAR-fix-6-INV-0to80LVR-IO" value="6.69"/>
+    <rate key="FHMP-ARREAR-fix-7-INV-0to80LVR-IO" value="6.69"/>
+    <rate key="FHMP-ADVANCE-fix-1-INV-0to80LVR-IO" value="3.89"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN FIXED COMPARISON RATES - INTEREST ONLY -->
+    <!-- Owner Occupied - Fixed - Interest Only - LVR 80 or less -->
+    <rate key="FH-ARREAR-fix-1-comp-0to80LVR-IO" value="4.73"/>
+    <rate key="FH-ARREAR-fix-2-comp-0to80LVR-IO" value="4.69"/>
+    <rate key="FH-ARREAR-fix-3-comp-0to80LVR-IO" value="4.66"/>
+    <rate key="FH-ARREAR-fix-4-comp-0to80LVR-IO" value="4.85"/>
+    <rate key="FH-ARREAR-fix-5-comp-0to80LVR-IO" value="4.95"/>
+    <rate key="FH-ARREAR-fix-6-comp-0to80LVR-IO" value="5.49"/>
+    <rate key="FH-ARREAR-fix-7-comp-0to80LVR-IO" value="5.59"/>
+    <!-- Investment - Fixed - Interest Only - LVR 80 or less -->
+    <rate key="FH-ARREAR-fix-1-comp-INV-0to80LVR-IO" value="5.35"/>
+    <rate key="FH-ARREAR-fix-2-comp-INV-0to80LVR-IO" value="5.20"/>
+    <rate key="FH-ARREAR-fix-3-comp-INV-0to80LVR-IO" value="5.05"/>
+    <rate key="FH-ARREAR-fix-4-comp-INV-0to80LVR-IO" value="5.03"/>
+    <rate key="FH-ARREAR-fix-5-comp-INV-0to80LVR-IO" value="4.93"/>
+    <rate key="FH-ARREAR-fix-6-comp-INV-0to80LVR-IO" value="6.18"/>
+    <rate key="FH-ARREAR-fix-7-comp-INV-0to80LVR-IO" value="6.27"/>
+    <rate key="FH-ADVANCE-fix-1-comp-INV-0to80LVR-IO" value="5.35"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP FIXED COMPARISON RATES - INTEREST ONLY -->
+    <!-- Owner Occupied - Fixed - Interest Only - Less than 150K - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-0to80LVR-lessthan150K-IO" value="4.93"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-0to80LVR-lessthan150K-IO" value="4.89"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-0to80LVR-lessthan150K-IO" value="4.86"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-0to80LVR-lessthan150K-IO" value="5.05"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-0to80LVR-lessthan150K-IO" value="5.16"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-0to80LVR-lessthan150K-IO" value="5.70"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-0to80LVR-lessthan150K-IO" value="5.80"/>
+    <!-- Owner Occupied - Fixed - Interest Only - 150K to 400K - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-0to80LVR-150to400K-IO" value="4.01"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-0to80LVR-150to400K-IO" value="4.06"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-0to80LVR-150to400K-IO" value="4.12"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-0to80LVR-150to400K-IO" value="4.38"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-0to80LVR-150to400K-IO" value="4.57"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-0to80LVR-150to400K-IO" value="5.18"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-0to80LVR-150to400K-IO" value="5.34"/>
+    <!-- Owner Occupied - Fixed - Interest Only - 400K to 700K - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-0to80LVR-400to700K-IO" value="3.89"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-0to80LVR-400to700K-IO" value="3.95"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-0to80LVR-400to700K-IO" value="4.02"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-0to80LVR-400to700K-IO" value="4.30"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-0to80LVR-400to700K-IO" value="4.49"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-0to80LVR-400to700K-IO" value="5.11"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-0to80LVR-400to700K-IO" value="5.28"/>
+    <!-- Owner Occupied - Fixed - Interest Only - More than 700K - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-0to80LVR-700Kormore-IO" value="3.85"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-0to80LVR-700Kormore-IO" value="3.91"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-0to80LVR-700Kormore-IO" value="3.99"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-0to80LVR-700Kormore-IO" value="4.27"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-0to80LVR-700Kormore-IO" value="4.46"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-0to80LVR-700Kormore-IO" value="5.09"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-0to80LVR-700Kormore-IO" value="5.26"/>
+    <!-- Investment - Fixed - Interest Only - Less than 150K - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-0to80LVR-lessthan150K-IO" value="5.08"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-0to80LVR-lessthan150K-IO" value="4.99"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-0to80LVR-lessthan150K-IO" value="4.88"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-0to80LVR-lessthan150K-IO" value="4.90"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-0to80LVR-lessthan150K-IO" value="4.85"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-0to80LVR-lessthan150K-IO" value="6.13"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-0to80LVR-lessthan150K-IO" value="6.25"/>
+    <!-- Investment - Fixed - Interest Only - 150K to 400K - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-0to80LVR-150to400K-IO" value="4.21"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-0to80LVR-150to400K-IO" value="4.20"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-0to80LVR-150to400K-IO" value="4.18"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-0to80LVR-150to400K-IO" value="4.27"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-0to80LVR-150to400K-IO" value="4.29"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-0to80LVR-150to400K-IO" value="5.64"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-0to80LVR-150to400K-IO" value="5.82"/>
+    <rate key="FHMP-ADVANCE-fix-1-comp-INV-0to80LVR-150to400K-IO" value="4.21"/>
+    <!-- Investment - Fixed - Interest Only - 400K to 700K - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-0to80LVR-400to700K-IO" value="4.21"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-0to80LVR-400to700K-IO" value="4.20"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-0to80LVR-400to700K-IO" value="4.18"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-0to80LVR-400to700K-IO" value="4.27"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-0to80LVR-400to700K-IO" value="4.29"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-0to80LVR-400to700K-IO" value="5.64"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-0to80LVR-400to700K-IO" value="5.82"/>
+    <!-- Investment - Fixed - Interest Only - More than 700K - LVR 80 or less -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-0to80LVR-700Kormore-IO" value="4.21"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-0to80LVR-700Kormore-IO" value="4.20"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-0to80LVR-700Kormore-IO" value="4.18"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-0to80LVR-700Kormore-IO" value="4.27"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-0to80LVR-700Kormore-IO" value="4.29"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-0to80LVR-700Kormore-IO" value="5.64"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-0to80LVR-700Kormore-IO" value="5.82"/>
+    <!-- ======================================== -->
+    <!-- Interest Only Investment Loan - Interest Only Repayments -->
+    <!-- Owner Occupied -->
+    <rate key="L1-IO-fix-1-IO" value="4.74"/>
+    <rate key="L1-IO-fix-3-IO" value="4.44"/>
+    <rate key="L1-IO-fix-5-IO" value="5.24"/>
+    <!-- Investment -->
+    <rate key="L1-IO-fix-1-INV-IO" value="4.04"/>
+    <rate key="L1-IO-fix-3-INV-IO" value="3.84"/>
+    <rate key="L1-IO-fix-5-INV-IO" value="4.14"/>
+    <!-- Interest Only Member Package - Interest Only Repayments -->
+    <!-- Owner Occupied -->
+    <rate key="L30-MP-IO-fix-1-IO" value="4.59"/>
+    <rate key="L30-MP-IO-fix-3-IO" value="4.29"/>
+    <rate key="L30-MP-IO-fix-5-IO" value="5.09"/>
+    <!-- Investment -->
+    <rate key="L30-MP-IO-fix-1-INV-IO" value="3.89"/>
+    <rate key="L30-MP-IO-fix-3-INV-IO" value="3.69"/>
+    <rate key="L30-MP-IO-fix-5-INV-IO" value="3.99"/>
+    <!-- ======================================== -->
+    <!-- Interest Only Investment Loan - Interest Only Repayments - Comparison -->
+    <!-- Owner Occupied -->
+    <rate key="L1-IO-fix-1-comp-IO" value="4.88"/>
+    <rate key="L1-IO-fix-3-comp-IO" value="4.78"/>
+    <rate key="L1-IO-fix-5-comp-IO" value="5.05"/>
+    <!-- Investment -->
+    <rate key="L1-IO-fix-1-comp-INV-IO" value="5.45"/>
+    <rate key="L1-IO-fix-3-comp-INV-IO" value="5.13"/>
+    <rate key="L1-IO-fix-5-comp-INV-IO" value="5.00"/>
+    <!-- Interest Only Member Package - Interest Only Repayments - Comparsion -->
+    <!-- Owner Occupied -->
+    <rate key="L30-MP-IO-fix-1-comp-IO" value="5.07"/>
+    <rate key="L30-MP-IO-fix-3-comp-IO" value="4.98"/>
+    <rate key="L30-MP-IO-fix-5-comp-IO" value="5.26"/>
+    <!-- Investment -->
+    <rate key="L30-MP-IO-fix-1-comp-INV-IO" value="5.63"/>
+    <rate key="L30-MP-IO-fix-3-comp-INV-IO" value="5.32"/>
+    <rate key="L30-MP-IO-fix-5-comp-INV-IO" value="5.20"/>
+    <!-- ======================================== -->
+    <!-- T24 BASIC HOME LOAN RATES - Member Benefits -->
+    <rate key="B1-var-0to80LVR-MBP" value="4.28"/>
+    <rate key="B1-var-morethan80LVR-MBP" value="4.28"/>
+    <!-- ======================================== -->
+    <!-- T24 BASIC HOME LOAN COMPARISON RATES - Member Benefits -->
+    <rate key="B1-var-comp-0to80LVR-MBP" value="4.30"/>
+    <rate key="B1-var-comp-morethan80LVR-MBP" value="4.30"/>
+    <!-- ======================================== -->
+    <!-- Interest Only Investment Loan - Interest Only -->
+    <!-- Owner Occupied -->
+    <rate key="L1-IOIL-Var-IO-OO" value="5.37"/>
+    <!-- Investment -->
+    <rate key="L1-IOIL-Var-IO-INV" value="6.03"/>
+    <!-- ======================================== -->
+    <!-- Interest Only Investment Loan - Interest Only - Comparison -->
+    <!-- Owner Occupied -->
+    <rate key="L1-IOIL-Var-IO-OO-Comp" value="5.10"/>
+    <!-- Investment -->
+    <rate key="L1-IOIL-Var-IO-INV-Comp" value="5.79"/>
+    <!-- ======================================== -->
+    <!-- Interest Only Investment Loan Member Package - Interest Only -->
+    <!-- Owner Occupied -->
+    <rate key="L1-IOIL-MP-Var-IO-OO" value="5.17"/>
+    <!-- Investment -->
+    <rate key="L1-IOIL-MP-Var-IO-INV" value="5.83"/>
+    <!-- ======================================== -->
+    <!-- Interest Only Investment Loan Member Package - Interest Only - Comparison -->
+    <!-- Owner Occupied -->
+    <rate key="L1-IOIL-MP-Var-IO-OO-Comp" value="5.28"/>
+    <!-- Investment -->
+    <rate key="L1-IOIL-MP-Var-IO-INV-Comp" value="5.96"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE FIXED RATES - PRINCIPAL AND INTEREST -->
+    <!-- Owner Occupied - Fixed - Principal and Interest - LVR above 80 and less than or equal to 90 -->
+    <rate key="FH-ARREAR-fix-1-80to90LVR" value="3.78"/>
+    <rate key="FH-ARREAR-fix-2-80to90LVR" value="3.42"/>
+    <rate key="FH-ARREAR-fix-3-80to90LVR" value="3.33"/>
+    <rate key="FH-ARREAR-fix-4-80to90LVR" value="3.73"/>
+    <rate key="FH-ARREAR-fix-5-80to90LVR" value="3.73"/>
+    <rate key="FH-ARREAR-fix-6-80to90LVR" value="5.64"/>
+    <rate key="FH-ARREAR-fix-7-80to90LVR" value="5.64"/>
+    <!-- Investor - Fixed - Principal and Interest - LVR above 80 and less than or equal to 90 -->
+    <rate key="FH-ARREAR-fix-1-INV-80to90LVR" value="3.83"/>
+    <rate key="FH-ARREAR-fix-2-INV-80to90LVR" value="3.73"/>
+    <rate key="FH-ARREAR-fix-3-INV-80to90LVR" value="3.63"/>
+    <rate key="FH-ARREAR-fix-4-INV-80to90LVR" value="4.03"/>
+    <rate key="FH-ARREAR-fix-5-INV-80to90LVR" value="4.03"/>
+    <rate key="FH-ARREAR-fix-6-INV-80to90LVR" value="6.44"/>
+    <rate key="FH-ARREAR-fix-7-INV-80to90LVR" value="6.44"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE WITH MP FIXED RATES - PRINCIPAL AND INTEREST -->
+    <!-- Owner Occupied - Fixed - Principal and Interest - LVR above 80 and less than or equal to 90 -->
+    <rate key="FHMP-ARREAR-fix-1-80to90LVR" value="3.63"/>
+    <rate key="FHMP-ARREAR-fix-2-80to90LVR" value="3.27"/>
+    <rate key="FHMP-ARREAR-fix-3-80to90LVR" value="3.18"/>
+    <rate key="FHMP-ARREAR-fix-4-80to90LVR" value="3.58"/>
+    <rate key="FHMP-ARREAR-fix-5-80to90LVR" value="3.58"/>
+    <rate key="FHMP-ARREAR-fix-6-80to90LVR" value="5.49"/>
+    <rate key="FHMP-ARREAR-fix-7-80to90LVR" value="5.49"/>
+    <!-- Owner Occupied - Fixed - Principal and Interest - LVR more than 90 -->
+    <rate key="FHMP-ARREAR-fix-1-morethan90LVR" value="4.09"/>
+    <rate key="FHMP-ARREAR-fix-2-morethan90LVR" value="3.94"/>
+    <rate key="FHMP-ARREAR-fix-3-morethan90LVR" value="4.09"/>
+    <rate key="FHMP-ARREAR-fix-4-morethan90LVR" value="4.39"/>
+    <rate key="FHMP-ARREAR-fix-5-morethan90LVR" value="4.59"/>
+    <rate key="FHMP-ARREAR-fix-6-morethan90LVR" value="5.59"/>
+    <rate key="FHMP-ARREAR-fix-7-morethan90LVR" value="5.59"/>
+    <!-- Investor - Fixed - Principal and Interest - LVR above 80 and less than or equal to 90 -->
+    <rate key="FHMP-ARREAR-fix-1-INV-80to90LVR" value="3.68"/>
+    <rate key="FHMP-ARREAR-fix-2-INV-80to90LVR" value="3.58"/>
+    <rate key="FHMP-ARREAR-fix-3-INV-80to90LVR" value="3.48"/>
+    <rate key="FHMP-ARREAR-fix-4-INV-80to90LVR" value="3.88"/>
+    <rate key="FHMP-ARREAR-fix-5-INV-80to90LVR" value="3.88"/>
+    <rate key="FHMP-ARREAR-fix-6-INV-80to90LVR" value="6.29"/>
+    <rate key="FHMP-ARREAR-fix-7-INV-80to90LVR" value="6.29"/>
+    <!-- ======================================== -->
+    <!-- T24 REFERENCE RATES - OWNER OCCUPIED - INTEREST ONLY -->
+    <!-- Basic Home Loan -->
+    <rate key="Ref-B1-Var-IO" value="4.78"/>
+    <!-- Flexible Home Loan -->
+    <rate key="Ref-FH-Var-IO" value="5.37"/>
+    <!-- Flexible Home Loan - Member Package -->
+    <rate key="Ref-FHMP-Var-IO" value="5.17"/>
+    <!-- ======================================== -->
+    <!-- T24 REFERENCE RATES - INVESTOR - INTEREST ONLY -->
+    <!-- Basic Home Loan -->
+    <rate key="Ref-B1-Var-INV-IO" value="5.03"/>
+    <!-- Flexible Home Loan -->
+    <rate key="Ref-FH-Var-INV-IO" value="5.62"/>
+    <!-- Flexible Home Loan - Member Package -->
+    <rate key="Ref-FHMP-Var-INV-IO" value="5.42"/>
+    <!-- ======================================== -->
+    <!-- T24 REFERENCE COMPARISON RATES - OWNER OCCUPIED - INTEREST ONLY -->
+    <!-- Basic Home Loan -->
+    <rate key="Ref-B1-Var-Comp-IO" value="4.51"/>
+    <!-- Flexible Home Loan -->
+    <rate key="Ref-FH-Var-Comp-IO" value="5.10"/>
+    <!-- Flexible Home Loan - Member Package -->
+    <rate key="Ref-FHMP-Var-Comp-IO" value="5.29"/>
+    <!-- ======================================== -->
+    <!-- T24 REFERENCE COMPARISON RATES - INVESTOR - INTEREST ONLY -->
+    <!-- Basic Home Loan -->
+    <rate key="Ref-B1-Var-Comp-INV-IO" value="4.79"/>
+    <!-- Flexible Home Loan -->
+    <rate key="Ref-FH-Var-Comp-INV-IO" value="5.38"/>
+    <!-- Flexible Home Loan - Member Package -->
+    <rate key="Ref-FHMP-Var-Comp-INV-IO" value="5.56"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN VARIABLE RATES - PRINCIPAL AND INTEREST -->
+    <!-- Owner Occupied - LVR more than 90 -->
+    <rate key="FH-var-morethan90LVR" value="5.01"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN VARIABLE COMPARISON RATES - PRINCIPAL AND INTEREST -->
+    <!-- Owner Occupied - LVR more than 90 -->
+    <rate key="FH-var-comp-morethan90LVR" value="5.03"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN MARGIN RATES - PRINCIPAL AND INTEREST -->
+    <!-- Owner Occupied - LVR more than 90 -->
+    <rate key="FH-var-margin-morethan90LVR" value="+0.14"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN FIXED RATES - PRINCIPAL AND INTEREST -->
+    <!-- Owner Occupied - LVR more than 90 -->
+    <rate key="FH-ARREAR-fix-1-morethan90LVR" value="4.24"/>
+    <rate key="FH-ARREAR-fix-2-morethan90LVR" value="4.09"/>
+    <rate key="FH-ARREAR-fix-3-morethan90LVR" value="4.24"/>
+    <rate key="FH-ARREAR-fix-4-morethan90LVR" value="4.54"/>
+    <rate key="FH-ARREAR-fix-5-morethan90LVR" value="4.74"/>
+    <rate key="FH-ARREAR-fix-6-morethan90LVR" value="5.74"/>
+    <rate key="FH-ARREAR-fix-7-morethan90LVR" value="5.74"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN FIXED COMPARISON RATES - PRINCIPAL AND INTEREST -->
+    <!-- Owner Occupied - LVR more than 90 -->
+    <rate key="FH-ARREAR-fix-1-comp-morethan90LVR" value="4.96"/>
+    <rate key="FH-ARREAR-fix-2-comp-morethan90LVR" value="4.86"/>
+    <rate key="FH-ARREAR-fix-3-comp-morethan90LVR" value="4.82"/>
+    <rate key="FH-ARREAR-fix-4-comp-morethan90LVR" value="4.87"/>
+    <rate key="FH-ARREAR-fix-5-comp-morethan90LVR" value="4.92"/>
+    <rate key="FH-ARREAR-fix-6-comp-morethan90LVR" value="5.39"/>
+    <rate key="FH-ARREAR-fix-7-comp-morethan90LVR" value="5.44"/>
+    <!-- ======================================== -->
+    <!-- BOOM CREDIT CARD - STANDARD RATES -->
+    <rate key="CC-Boom-Standard-Purchase" value="19.99"/>
+    <rate key="CC-Boom-Standard-Balance-Transfer" value="19.99"/>
+    <rate key="CC-Boom-Standard-Cash-Advance" value="19.99"/>
+    <rate key="CC-Boom-Standard-Acquisition-BT-Offer" value="0.00"/>
+    <!-- ======================================== -->
+    <!-- T24 BASIC HOME LOAN VARIABLE RATE - INTEREST ONLY -->
+    <!-- Investment - LVR more than 80 -->
+    <rate key="B1-var-INV-morethan80LVR-IO" value="4.54"/>
+    <!-- T24 BASIC HOME LOAN VARIABLE COMPARISON RATE - INTEREST ONLY -->
+    <!-- Investment - LVR more than 80 -->
+    <rate key="B1-var-comp-INV-morethan80LVR-IO" value="4.75"/>
+    <!-- T24 BASIC HOME LOAN VARIABLE MARGIN - INTEREST ONLY -->
+    <!-- Investment - LVR more than 80 -->
+    <rate key="B1-var-margin-INV-morethan80LVR-IO" value="-0.49"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN VARIABLE RATE - INTEREST ONLY -->
+    <!-- Investment - LVR 80 to 90 -->
+    <rate key="FH-var-INV-80to90LVR-IO" value="6.47"/>
+    <!-- T24 FLEXIBLE HOME LOAN VARIABLE COMPARISON RATE - INTEREST ONLY -->
+    <!-- Investment - LVR 80 to 90 -->
+    <rate key="FH-var-comp-INV-80to90LVR-IO" value="6.10"/>
+    <!-- T24 FLEXIBLE HOME LOAN VARIABLE MARGIN - INTEREST ONLY -->
+    <!-- Investment - LVR 80 to 90 -->
+    <rate key="FH-var-margin-INV-80to90LVR-IO" value="+0.85"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN WITH MP VARIABLE RATE - INTEREST ONLY -->
+    <!-- Investment - Less than 150k - LVR 80 to 90 -->
+    <rate key="FHMP-var-INV-80to90LVR-lessthan150K-IO" value="5.36"/>
+    <!-- Investment - 150k to 400k - LVR 80 to 90 -->
+    <rate key="FHMP-var-INV-80to90LVR-150to400K-IO" value="4.42"/>
+    <!-- Investment - 400k to 700k - LVR 80 to 90 -->
+    <rate key="FHMP-var-INV-80to90LVR-400to700K-IO" value="4.32"/>
+    <!-- Investment - 700k or more - LVR 80 to 90 -->
+    <rate key="FHMP-var-INV-80to90LVR-700Kormore-IO" value="4.32"/>
+    <!-- T24 FLEXIBLE HOME LOAN WITH MP COMPARISON RATE - INTEREST ONLY -->
+    <!-- Investment - Less than 150k - LVR 80 to 90 -->
+    <rate key="FHMP-var-comp-INV-80to90LVR-lessthan150K-IO" value="5.42"/>
+    <!-- Investment - 150k to 400k - LVR 80 to 90 -->
+    <rate key="FHMP-var-comp-INV-80to90LVR-150to400K-IO" value="4.57"/>
+    <!-- Investment - 400k to 700k - LVR 80 to 90 -->
+    <rate key="FHMP-var-comp-INV-80to90LVR-400to700K-IO" value="4.52"/>
+    <!-- Investment - 700k or more - LVR 80 to 90 -->
+    <rate key="FHMP-var-comp-INV-80to90LVR-700Kormore-IO" value="4.52"/>
+    <!-- T24 FLEXIBLE HOME LOAN WITH MP VARIABLE MARGIN - INTEREST ONLY -->
+    <!-- Investment - Less than 150k - LVR 80 to 90 -->
+    <rate key="FHMP-var-margin-INV-80to90LVR-lessthan150K-IO" value="-0.06"/>
+    <!-- Investment - 150k to 400k - LVR 80 to 90 -->
+    <rate key="FHMP-var-margin-INV-80to90LVR-150to400K-IO" value="-1.00"/>
+    <!-- Investment - 400k to 700k - LVR 80 to 90 -->
+    <rate key="FHMP-var-margin-INV-80to90LVR-400to700K-IO" value="-1.10"/>
+    <!-- Investment - 700k or more - LVR 80 to 90 -->
+    <rate key="FHMP-var-margin-INV-80to90LVR-700Kormore-IO" value="-1.10"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN FIXED RATES - INTEREST ONLY -->
+    <!-- Investment - LVR 80 to 90 -->
+    <rate key="FH-ARREAR-fix-1-INV-80to90LVR-IO" value="4.24"/>
+    <rate key="FH-ARREAR-fix-2-INV-80to90LVR-IO" value="4.14"/>
+    <rate key="FH-ARREAR-fix-3-INV-80to90LVR-IO" value="4.04"/>
+    <rate key="FH-ARREAR-fix-4-INV-80to90LVR-IO" value="4.34"/>
+    <rate key="FH-ARREAR-fix-5-INV-80to90LVR-IO" value="4.34"/>
+    <rate key="FH-ARREAR-fix-6-INV-80to90LVR-IO" value="7.04"/>
+    <rate key="FH-ARREAR-fix-7-INV-80to90LVR-IO" value="7.04"/>
+    <rate key="FH-ADVANCE-fix-1-INV-80to90LVR-IO" value="4.24"/>
+    <!-- T24 FLEXIBLE HOME LOAN FIXED COMPARISON RATES - INTEREST ONLY -->
+    <!-- Investment - LVR 80 to 90 -->
+    <rate key="FH-ARREAR-fix-1-comp-INV-80to90LVR-IO" value="5.64"/>
+    <rate key="FH-ARREAR-fix-2-comp-INV-80to90LVR-IO" value="5.48"/>
+    <rate key="FH-ARREAR-fix-3-comp-INV-80to90LVR-IO" value="5.32"/>
+    <rate key="FH-ARREAR-fix-4-comp-INV-80to90LVR-IO" value="5.29"/>
+    <rate key="FH-ARREAR-fix-5-comp-INV-80to90LVR-IO" value="5.19"/>
+    <rate key="FH-ARREAR-fix-6-comp-INV-80to90LVR-IO" value="6.44"/>
+    <rate key="FH-ARREAR-fix-7-comp-INV-80to90LVR-IO" value="6.52"/>
+    <rate key="FH-ADVANCE-fix-1-comp-INV-80to90LVR-IO" value="5.64"/>
+    <!-- ======================================== -->
+    <!-- T24 FLEXIBLE HOME LOAN WITH MP FIXED RATES - INTEREST ONLY -->
+    <!-- Investment - 150k to 400k - LVR 80 to 90 -->
+    <rate key="FHMP-ARREAR-fix-1-INV-80to90LVR-IO" value="4.09"/>
+    <rate key="FHMP-ARREAR-fix-2-INV-80to90LVR-IO" value="3.99"/>
+    <rate key="FHMP-ARREAR-fix-3-INV-80to90LVR-IO" value="3.89"/>
+    <rate key="FHMP-ARREAR-fix-4-INV-80to90LVR-IO" value="4.19"/>
+    <rate key="FHMP-ARREAR-fix-5-INV-80to90LVR-IO" value="4.19"/>
+    <rate key="FHMP-ARREAR-fix-6-INV-80to90LVR-IO" value="6.89"/>
+    <rate key="FHMP-ARREAR-fix-7-INV-80to90LVR-IO" value="6.89"/>
+    <rate key="FHMP-ADVANCE-fix-1-INV-80to90LVR-IO" value="4.09"/>
+    <!-- T24 FLEXIBLE HOME LOAN WITH MP FIXED COMPARISON RATES - INTEREST ONLY -->
+    <!-- Investment - Less than 150k - LVR 80 to 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-80to90LVR-lessthan150K-IO" value="5.10"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-80to90LVR-lessthan150K-IO" value="5.03"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-80to90LVR-lessthan150K-IO" value="4.94"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-80to90LVR-lessthan150K-IO" value="4.97"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-80to90LVR-lessthan150K-IO" value="4.93"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-80to90LVR-lessthan150K-IO" value="6.24"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-80to90LVR-lessthan150K-IO" value="6.37"/>
+    <rate key="FHMP-ADVANCE-fix-1-comp-INV-80to90LVR-lessthan150K-IO" value="5.10"/>
+    <!-- Investment - 150k to 400k - LVR 80 to 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-80to90LVR-150to400K-IO" value="4.39"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-80to90LVR-150to400K-IO" value="4.38"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-80to90LVR-150to400K-IO" value="4.36"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-80to90LVR-150to400K-IO" value="4.45"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-80to90LVR-150to400K-IO" value="4.47"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-80to90LVR-150to400K-IO" value="5.83"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-80to90LVR-150to400K-IO" value="6.02"/>
+    <rate key="FHMP-ADVANCE-fix-1-comp-INV-80to90LVR-150to400K-IO" value="4.39"/>
+    <!-- Investment - 400k to 700k - LVR 80 to 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-80to90LVR-400kto700K-IO" value="4.39"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-80to90LVR-400kto700K-IO" value="4.38"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-80to90LVR-400kto700K-IO" value="4.36"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-80to90LVR-400kto700K-IO" value="4.45"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-80to90LVR-400kto700K-IO" value="4.47"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-80to90LVR-400kto700K-IO" value="5.83"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-80to90LVR-400kto700K-IO" value="6.02"/>
+    <rate key="FHMP-ADVANCE-fix-1-comp-INV-80to90LVR-400kto700K-IO" value="4.39"/>
+    <!-- Investment - 700k or more - LVR 80 to 90 -->
+    <rate key="FHMP-ARREAR-fix-1-comp-INV-80to90LVR-700kormore-IO" value="4.39"/>
+    <rate key="FHMP-ARREAR-fix-2-comp-INV-80to90LVR-700kormore-IO" value="4.38"/>
+    <rate key="FHMP-ARREAR-fix-3-comp-INV-80to90LVR-700kormore-IO" value="4.36"/>
+    <rate key="FHMP-ARREAR-fix-4-comp-INV-80to90LVR-700kormore-IO" value="4.45"/>
+    <rate key="FHMP-ARREAR-fix-5-comp-INV-80to90LVR-700kormore-IO" value="4.47"/>
+    <rate key="FHMP-ARREAR-fix-6-comp-INV-80to90LVR-700kormore-IO" value="5.83"/>
+    <rate key="FHMP-ARREAR-fix-7-comp-INV-80to90LVR-700kormore-IO" value="6.02"/>
+    <rate key="FHMP-ADVANCE-fix-1-comp-INV-80to90LVR-700kormore-IO" value="4.39"/>
+    <!-- ======================================== -->
+    <!-- NON-MEMBER - INTEREST ONLY INVESTMENT LOAN -->
+    <!-- Investment - Interest only - LVR 80 to 90 - Rate -->
+    <rate key="L1-IO-fix-1-INV-80to90LVR-IO" value="4.24"/>
+    <rate key="L1-IO-fix-3-INV-80to90LVR-IO" value="4.04"/>
+    <rate key="L1-IO-fix-5-INV-80to90LVR-IO" value="4.34"/>
+    <!-- Investment - Interest only - LVR 80 to 90 - Comparison Rate -->
+    <rate key="L1-IO-fix-1-comp-INV-80to90LVR-IO" value="5.47"/>
+    <rate key="L1-IO-fix-3-comp-INV-80to90LVR-IO" value="5.18"/>
+    <rate key="L1-IO-fix-5-comp-INV-80to90LVR-IO" value="5.08"/>
+    <!-- MEMBER - INTEREST ONLY INVESTMENT LOAN -->
+    <!-- Investment - Interest only - LVR 80 to 90 -->
+    <rate key="L30-MP-IO-fix-1-INV-80to90LVR-IO" value="4.09"/>
+    <rate key="L30-MP-IO-fix-3-INV-80to90LVR-IO" value="3.89"/>
+    <rate key="L30-MP-IO-fix-5-INV-80to90LVR-IO" value="4.19"/>
+    <!-- Investment - Interest only - LVR 80 to 90 -->
+    <rate key="L30-MP-IO-fix-1-comp-INV-80to90LVR-IO" value="5.65"/>
+    <rate key="L30-MP-IO-fix-3-comp-INV-80to90LVR-IO" value="5.37"/>
+    <rate key="L30-MP-IO-fix-5-comp-INV-80to90LVR-IO" value="5.28"/>
+    <!-- ======================================== -->
+    <!-- RATES FOR VARIATION CALCULATOR - BACKBOOK -->
+    <!-- NON MEMBER - FLEXIBLE HOME LOAN -->
+    <!-- Owner Occupied - Interest Only - LVR 80 to 90 -->
+    <rate key="CALC-FH-ARREAR-fix-1-80to90LVR-IO" value="4.74"/>
+    <rate key="CALC-FH-ARREAR-fix-2-80to90LVR-IO" value="4.49"/>
+    <rate key="CALC-FH-ARREAR-fix-3-80to90LVR-IO" value="4.74"/>
+    <rate key="CALC-FH-ARREAR-fix-4-80to90LVR-IO" value="5.04"/>
+    <rate key="CALC-FH-ARREAR-fix-5-80to90LVR-IO" value="5.24"/>
+    <rate key="CALC-FH-ARREAR-fix-6-80to90LVR-IO" value="6.24"/>
+    <rate key="CALC-FH-ARREAR-fix-7-80to90LVR-IO" value="6.24"/>
+    <!-- Owner Occupied - Interest Only - LVR more than 90 -->
+    <rate key="CALC-FH-ARREAR-fix-1-morethan90LVR-IO" value="4.84"/>
+    <rate key="CALC-FH-ARREAR-fix-2-morethan90LVR-IO" value="4.59"/>
+    <rate key="CALC-FH-ARREAR-fix-3-morethan90LVR-IO" value="4.84"/>
+    <rate key="CALC-FH-ARREAR-fix-4-morethan90LVR-IO" value="5.14"/>
+    <rate key="CALC-FH-ARREAR-fix-5-morethan90LVR-IO" value="5.34"/>
+    <rate key="CALC-FH-ARREAR-fix-6-morethan90LVR-IO" value="6.34"/>
+    <rate key="CALC-FH-ARREAR-fix-7-morethan90LVR-IO" value="6.34"/>
+    <!-- Investor - Principal and Interest - LVR more than 90 -->
+    <rate key="CALC-FH-ARREAR-fix-1-INV-morethan90LVR" value="4.54"/>
+    <rate key="CALC-FH-ARREAR-fix-2-INV-morethan90LVR" value="4.39"/>
+    <rate key="CALC-FH-ARREAR-fix-3-INV-morethan90LVR" value="4.34"/>
+    <rate key="CALC-FH-ARREAR-fix-4-INV-morethan90LVR" value="4.84"/>
+    <rate key="CALC-FH-ARREAR-fix-5-INV-morethan90LVR" value="5.04"/>
+    <rate key="CALC-FH-ARREAR-fix-6-INV-morethan90LVR" value="6.54"/>
+    <rate key="CALC-FH-ARREAR-fix-7-INV-morethan90LVR" value="6.54"/>
+    <!-- Investor - Interest Only - LVR more than 90 -->
+    <rate key="CALC-FH-ARREAR-fix-1-INV-morethan90LVR-IO" value="4.84"/>
+    <rate key="CALC-FH-ARREAR-fix-2-INV-morethan90LVR-IO" value="4.74"/>
+    <rate key="CALC-FH-ARREAR-fix-3-INV-morethan90LVR-IO" value="4.64"/>
+    <rate key="CALC-FH-ARREAR-fix-4-INV-morethan90LVR-IO" value="5.44"/>
+    <rate key="CALC-FH-ARREAR-fix-5-INV-morethan90LVR-IO" value="5.64"/>
+    <rate key="CALC-FH-ARREAR-fix-6-INV-morethan90LVR-IO" value="7.14"/>
+    <rate key="CALC-FH-ARREAR-fix-7-INV-morethan90LVR-IO" value="7.14"/>
+    <rate key="CALC-FH-ADVANCE-fix-1-INV-morethan90LVR-IO" value="4.84"/>
+    <!-- MEMBER - FLEXIBLE HOME LOAN -->
+    <!-- Owner Occupied - Interest Only - LVR 80 to 90 -->
+    <rate key="CALC-FHMP-ARREAR-fix-1-80to90LVR-IO" value="4.59"/>
+    <rate key="CALC-FHMP-ARREAR-fix-2-80to90LVR-IO" value="4.34"/>
+    <rate key="CALC-FHMP-ARREAR-fix-3-80to90LVR-IO" value="4.59"/>
+    <rate key="CALC-FHMP-ARREAR-fix-4-80to90LVR-IO" value="4.89"/>
+    <rate key="CALC-FHMP-ARREAR-fix-5-80to90LVR-IO" value="5.09"/>
+    <rate key="CALC-FHMP-ARREAR-fix-6-80to90LVR-IO" value="6.09"/>
+    <rate key="CALC-FHMP-ARREAR-fix-7-80to90LVR-IO" value="6.09"/>
+    <!-- Owner Occupied - Interest Only - LVR more than 90 -->
+    <rate key="CALC-FHMP-ARREAR-fix-1-morethan90LVR-IO" value="4.69"/>
+    <rate key="CALC-FHMP-ARREAR-fix-2-morethan90LVR-IO" value="4.44"/>
+    <rate key="CALC-FHMP-ARREAR-fix-3-morethan90LVR-IO" value="4.69"/>
+    <rate key="CALC-FHMP-ARREAR-fix-4-morethan90LVR-IO" value="4.99"/>
+    <rate key="CALC-FHMP-ARREAR-fix-5-morethan90LVR-IO" value="5.19"/>
+    <rate key="CALC-FHMP-ARREAR-fix-6-morethan90LVR-IO" value="6.19"/>
+    <rate key="CALC-FHMP-ARREAR-fix-7-morethan90LVR-IO" value="6.19"/>
+    <!-- Investor - Principal and Interest - LVR more than 90 -->
+    <rate key="CALC-FHMP-ARREAR-fix-1-INV-morethan90LVR" value="4.39"/>
+    <rate key="CALC-FHMP-ARREAR-fix-2-INV-morethan90LVR" value="4.24"/>
+    <rate key="CALC-FHMP-ARREAR-fix-3-INV-morethan90LVR" value="4.19"/>
+    <rate key="CALC-FHMP-ARREAR-fix-4-INV-morethan90LVR" value="4.69"/>
+    <rate key="CALC-FHMP-ARREAR-fix-5-INV-morethan90LVR" value="4.89"/>
+    <rate key="CALC-FHMP-ARREAR-fix-6-INV-morethan90LVR" value="6.39"/>
+    <rate key="CALC-FHMP-ARREAR-fix-7-INV-morethan90LVR" value="6.39"/>
+    <!-- Investor - Interest Only - LVR more than 90 -->
+    <rate key="CALC-FHMP-ARREAR-fix-1-INV-morethan90LVR-IO" value="4.69"/>
+    <rate key="CALC-FHMP-ARREAR-fix-2-INV-morethan90LVR-IO" value="4.59"/>
+    <rate key="CALC-FHMP-ARREAR-fix-3-INV-morethan90LVR-IO" value="4.49"/>
+    <rate key="CALC-FHMP-ARREAR-fix-4-INV-morethan90LVR-IO" value="5.29"/>
+    <rate key="CALC-FHMP-ARREAR-fix-5-INV-morethan90LVR-IO" value="5.49"/>
+    <rate key="CALC-FHMP-ARREAR-fix-6-INV-morethan90LVR-IO" value="6.99"/>
+    <rate key="CALC-FHMP-ARREAR-fix-7-INV-morethan90LVR-IO" value="6.99"/>
+    <rate key="CALC-FHMP-ADVANCE-fix-1-INV-morethan90LVR-IO" value="4.69"/>
+    <!-- ======================================== -->
+</rates>		
